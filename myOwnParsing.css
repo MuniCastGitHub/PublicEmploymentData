@@ -1,0 +1,77 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;}
+
+option {
+  font-family: 'Sura', serif;
+  font-size: 14px;}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  stroke-width: 2;
+  shape-rendering: crispEdges;
+}
+
+.outerBox {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+
+  -webkit-flex-flow: row wrap;
+  flex-flow: row wrap;
+
+  text-align: center;}
+
+.outerBox > * {
+  padding: 1px;
+  margin:  1px;
+  flex: 1 100%;}
+
+.title {
+  background: #B2B6B8;}
+
+.main {
+  background: #ffffff;}
+
+.aside-2 {
+  background: #B2B6B8;}
+
+.footer{
+  background: #B2B6B8;}
+
+@media all and (min-width: 600px) {
+  .aside { flex: 1 auto;}}
+
+@media all and (min-width: 800px) {
+  .main    {flex: 6 0px;}
+  .aside-1 {flex: 0  0px;}
+  .aside-2 {flex: 1 0px;}
+
+  .aside-1 {order: 1;}
+  .main    {order: 2;}
+  .aside-2 {order: 3;}
+  .footer  {order: 4;}}
+
+  .counties {
+    fill: none;
+  }
+
+  .states {
+    fill: none;
+    stroke: #fff;
+    stroke-linejoin: round;
+  }
+
+  .q0-9 { fill:rgb(247,251,255); }
+  .q1-9 { fill:rgb(222,235,247); }
+  .q2-9 { fill:rgb(198,219,239); }
+  .q3-9 { fill:rgb(158,202,225); }
+  .q4-9 { fill:rgb(107,174,214); }
+  .q5-9 { fill:rgb(66,146,198); }
+  .q6-9 { fill:rgb(33,113,181); }
+  .q7-9 { fill:rgb(8,81,156); }
+  .q8-9 { fill:rgb(8,48,107); }

@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="//d3js.org/d3.v3.min.js"></script>
+<script src="//d3js.org/queue.v1.min.js"></script>
+<script src="//d3js.org/topojson.v1.min.js"></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>MuniCast Test</title>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+  <link href="myOwnParsing.css" rel="stylesheet" title="Default" media="screen">
+</head>
+
+<style>
+.country{
+  fill:#fff;
+  /*stroke:#fff;*/
+}
+.counties{
+  stroke:#444;
+  fill:none;
+}
+.selectState{
+  stroke:#fff;
+  fill:#444;
+  z-index: 0;
+}
+.selectState:hover{
+  fill:red;
+  z-index: 100;
+}
+.active{
+  fill: red;
+  z-index: 100;
+}
+</style>
+
+<body>
+  <div class="outerBox">
+    <header class="title"><h1>Statewide Public Employment</h1></header>
+
+    <article class="main">
+
+      <script type="text/javascript">
+
+        var data1 = "data1.csv",
+            data2 = "data2.csv",
+            data3 = "data3.csv",
+            data4 = "data4.csv";
+        var newData;
+        var initialFunction = "Total";
+
+        var width = 950,
+            height= 500,
+            centered,
+            stateFIPS;
+        var usedata;
+
+        var projection = d3.geo.albersUsa()
+            .scale (1070)
+            .translate([width/2, height/2]),
+            path = d3.geo.path().projection(projection);
+        var svg = d3.select("article").append("svg")
+            .attr("width", width)
+            .attr("height", height);
+        var g = svg.append("g")
+        // var color = d3.scale.quantize()
+        //     .range(d3.range(9).map(function(i){return "q" + i + "-9";}));
+
+        var d1;
+        function updateLegend(newData, newFunction){
+          d3.csv(newData, function(d){
+            d1 = d.filter(function(row){
+              if(row["GovernmentFunction"] == newFunction){
+                return(row);
+              };
+            });
+            var d2 = d.slice().sort(function(a, b){return b.y-a.y})
+            var dRank2 = d2.filter(function(i){return d2.indexOf(i)<16});
+          return d1;
+          });
+        console.log(d1);}
+          updateLegend(data1, initialFunction);
+          queue()
+            .defer(d3.json, "us-states-10m.json")
+            .defer(d3.csv, data1)
+            .await(ready);
+
+        function ready (error, us, data) {
+          console.log(data);
+          var pairNameWithId = {};
+          var pairDataWithId = {};
+          data.forEach(function(d){
+            pairNameWithId[d.id] = d.StateorUS;
+            pairDataWithId[d.id] = +d.y;
+          });
+          //color.domain
+          var counties = topojson.feature(us, us.objects.counties);
+          var country = topojson.feature(us, us.objects.states);
+          g.append("path")
+             .datum(country)
+             .attr("d", path)
+             .attr("class", "country");
+          g.selectAll(".states")
+             .data(country.features)
+             .enter().append("path")
+             .attr("class", "selectState")
+             .attr("d", path)
+             .on("click", clicke);
+          }
+        function clicke(d){
+          var x, y, k;
+          if (d && centered !== d) {
+            var centroid = path.centroid(d);
+            x = centroid[0];
+            y = centroid[1];
+            k = 2.5;
+            centered = d
+            stateFIPS= d.id;
+          console.log(stateFIPS);}
+          else {
+            x = width/2;
+            y = height/2;
+            k = 1;
+            centered = null;}
+          g.selectAll("path")
+           .classed("active", centered && function(d){return d === centered;});
+          g.transition()
+           .delay(200)
+           .duration(200)
+           .ease("sin")
+           .attr("transform", "translate(" + width/2 + "," + height/2 + ")scale(" + k + ") translate(" + -x + "," + -y +")")
+           .style ("stroke-width", 1.5 / k + "px");
+        }
+      </script>
+    </article>
+  <aside class="aside aside-2">
+    <div class="selector" id="dropDown1">
+      <h3>Select Dataset</h3>
+      <select id = "opts">
+        <option value="data1">FTEs</option>
+        <option value="data2">FTEs per 1000 Residents</option>
+        <option value="data3">Average Annual Pay Per FTE</option>
+        <option value="data4">Payroll Annualized</option>
+      </select>
+      <script>
+      d3.select("#opts")
+        .on("change", function() {
+              newData = eval(d3.select(this).property("value"));
+          var newFunction = d3.select("#opts2").property("value");
+          updateLegend(newData, newFunction);});
+
+      </script>
+    </div>
+    <div class="selector2" id="dropDown2">
+      <h3>Select Government Function</h3>
+      <script>
+        d3.csv("data1.csv", function(error, data) {
+          var select = d3.select("div.selector2")
+          .append("select")
+          .attr("id", "opts2");
+          select.on("change", function(d) {
+            var newFunction = d3.select(this).property("value");
+                newData = eval(d3.select("#opts").property("value"));
+            updateLegend(newData, newFunction);});
+          select.selectAll("option")
+            .data(d3.map(data, function(d){return d.GovernmentFunction;}).keys())
+            .enter()
+            .append("option")
+            .attr("value", function (d) { return d; })
+            .text(function (d) { return d; });
+          });
+        </script>
+
+      </div>
+      <p text-align="left">
+        Use the drop down menus to specify the data you wish to view</p>
+    </aside>
+  </div>
+</body>
