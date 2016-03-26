@@ -16,45 +16,77 @@
   fill:#fff;
   /*stroke:#fff;*/
 }
+.q0-9 { fill:rgb(247,251,255); }
+.q1-9 { fill:rgb(222,235,247); }
+.q2-9 { fill:rgb(198,219,239); }
+.q3-9 { fill:rgb(158,202,225); }
+.q4-9 { fill:rgb(107,174,214); }
+.q5-9 { fill:rgb(66,146,198); }
+.q6-9 { fill:rgb(33,113,181); }
+.q7-9 { fill:rgb(8,81,156); }
+.q8-9 { fill:rgb(8,48,107); }
 .counties{
   stroke:#444;
   fill:none;
 }
 .selectState{
   stroke:#fff;
-  fill:#444;
+  stroke-linejoin:"round";
+  /*fill:#444;*/
+  /*opacity: 0.5;*/
   z-index: 0;
 }
 .selectState:hover{
+  box-shadow: 15px -15px grey;
   fill:red;
   z-index: 100;
 }
 .active{
+  box-shadow: inset 0 0 1em black;
   fill: red;
   z-index: 100;
 }
 </style>
 
 <body>
-  <div class="outerBox">
-    <header class="title"><h1>Statewide Public Employment</h1></header>
+  <div class="outerBox grit">
+    <header class="title grit"><h1>Statewide Public Employment</h1></header>
 
-    <article class="main">
+    <article class="main ">
 
       <script type="text/javascript">
 
-        var data1 = "data1.csv",
-            data2 = "data2.csv",
-            data3 = "data3.csv",
-            data4 = "data4.csv";
-        var newData;
+        var data1 = "Data1",
+            data2 = "Data2",
+            data3 = "Data3",
+            data4 = "Data4",
+            newData;
+        var column, d2;
         var initialFunction = "Total";
 
         var width = 950,
             height= 500,
             centered,
             stateFIPS;
-        var usedata;
+
+        var w  = 950,
+            h = 350,
+            b = {lside: 125, rside: 50, top: 5, bottom: 100};
+        var xColumn,
+            yColumn = "StateorUS",
+            cColumn = "StateorUS";
+
+        var plotWidth  = w - b.lside - 50,
+            plotHeight = h - b.bottom - b.top;
+
+        var xscale = d3.scale.linear().range([0, plotWidth - b.lside - b.rside]),
+            yscale = d3.scale.ordinal().rangeBands([0, plotHeight], 0.2, 0.1),
+            color  = d3.scale.quantize().range(["#dcdcdc", "#d0d6cd", "#bdc9be", "#aabdaf", "#97b0a0", "#84a491", "#719782", "#5e8b73", "#4b7e64", "#387255", "#256546", "#125937", "#004d28"]);
+
+        var rateById = d3.map();
+
+        var quantize = d3.scale.quantize()
+          .range(d3.range(9).map(function(i) { return "q" + i + "-9"; }));
 
         var projection = d3.geo.albersUsa()
             .scale (1070)
@@ -63,49 +95,45 @@
         var svg = d3.select("article").append("svg")
             .attr("width", width)
             .attr("height", height);
-        var g = svg.append("g")
-        // var color = d3.scale.quantize()
-        //     .range(d3.range(9).map(function(i){return "q" + i + "-9";}));
+        var gMap = svg.append("g")
 
-        var d1;
-        function updateLegend(newData, newFunction){
-          d3.csv(newData, function(d){
-            d1 = d.filter(function(row){
-              if(row["GovernmentFunction"] == newFunction){
-                return(row);
-              };
-            });
-            var d2 = d.slice().sort(function(a, b){return b.y-a.y})
-            var dRank2 = d2.filter(function(i){return d2.indexOf(i)<16});
-          return d1;
-          });
-        console.log(d1);}
-          updateLegend(data1, initialFunction);
-          queue()
-            .defer(d3.json, "us-states-10m.json")
-            .defer(d3.csv, data1)
-            .await(ready);
+        var canvas = d3.select("article")
+          .append("svg")
+          .attr("width", plotWidth + 100)
+          .attr("height", plotHeight+50);
+          var g = canvas.append("g")
+            .attr("transform", "translate( " +b.lside+ ", " +b.top+ " )");
+
+        function type(d){
+          d.Data1 = +d.Data1;
+          d.Data2 = +d.Data2;
+          d.Data3 = +d.Data3;
+          d.Data4 = +d.Data4;
+          return d;
+        }
 
         function ready (error, us, data) {
-          console.log(data);
+          var y = column;
           var pairNameWithId = {};
           var pairDataWithId = {};
-          data.forEach(function(d){
-            pairNameWithId[d.id] = d.StateorUS;
-            pairDataWithId[d.id] = +d.y;
+          d2.forEach(function(d){
+            pairNameWithId[d.StateCode] = d.StateorUS;
+            pairDataWithId[d.StateCode] = +d[y];
           });
-          //color.domain
+          color.domain([0, d3.max(d2, function(d){return d[y];})]);
+          console.log(y);
           var counties = topojson.feature(us, us.objects.counties);
           var country = topojson.feature(us, us.objects.states);
-          g.append("path")
+          gMap.append("path")
              .datum(country)
              .attr("d", path)
              .attr("class", "country");
-          g.selectAll(".states")
+          gMap.selectAll(".states")
              .data(country.features)
              .enter().append("path")
              .attr("class", "selectState")
              .attr("d", path)
+             .style("fill", function(d){return color(pairDataWithId[d.id]);})
              .on("click", clicke);
           }
         function clicke(d){
@@ -123,15 +151,103 @@
             y = height/2;
             k = 1;
             centered = null;}
-          g.selectAll("path")
+          gMap.selectAll("path")
            .classed("active", centered && function(d){return d === centered;});
-          g.transition()
+          gMap.transition()
            .delay(200)
            .duration(200)
            .ease("sin")
            .attr("transform", "translate(" + width/2 + "," + height/2 + ")scale(" + k + ") translate(" + -x + "," + -y +")")
            .style ("stroke-width", 1.5 / k + "px");
         }
+
+        function drawAxes(data, selector){
+          var xColumn = selector;
+          yscale.domain(data.map(function(d){return d[yColumn];}));
+          xscale.domain([0, d3.max(data, function(d){return d[xColumn]; })]);
+
+          var formatTick = d3.format(",");
+          var numTick =  6;
+          if (newData == "data3.csv"){
+            formatTick = d3.format("$,.f");}
+          else if (newData == "data2.csv") {
+            formatTick = d3.format(",.2f");}
+          else if (newData == "data4.csv") {
+            formatTick = d3.format("$,.f")
+            numTick = 3;
+          };
+
+          var xAxisG = g.append("g")
+            .attr("class", "x axis")
+            .attr("transform", "translate(0, 495 )");
+          var yAxisG = g.append("g")
+            .attr("class", "y axis");
+
+          var xAxis = d3.svg.axis().scale(xscale).orient("bottom")
+            .outerTickSize(0)
+            .ticks(numTick)
+            .tickFormat(formatTick);
+          var yAxis = d3.svg.axis().scale(yscale).orient("left")
+            .outerTickSize(0);
+
+          xAxisG.call(xAxis);
+          yAxisG.call(yAxis);
+        }
+
+        function chart(data, selector){
+          var xColumn = selector;
+          d3.selectAll(".axis").remove();
+          yscale.domain(data.map(function(d){return d[yColumn];}));
+          xscale.domain([0, d3.max(data, function(d){return d[xColumn]; })]);
+          var cscale = d3.scale.category20c();
+
+          var bars = g.selectAll("rect").data(data);
+          bars.enter().append("rect");
+          bars
+            .attr("y", function (d){ return yscale(d[yColumn]); })
+            .attr("height", yscale.rangeBand())
+            .attr("fill", function (d){ return cscale(d[cColumn]); });
+          var formatTxt = d3.format(",");
+          if (newData == "Data3" || newData == "Data4"){
+            formatTxt = d3.format("$,.2f");}else if (newData == "Data2") {
+            formatTxt = d3.format(",.2f");};
+          var txt = g.selectAll("text").data(data);
+            txt.enter().append("text");
+            txt
+              .attr("y", function(d){return (yscale(d[yColumn]) + yscale.rangeBand()/2 + 5);} )
+              .text(
+                function(d){return formatTxt(d[xColumn], 2); }
+              );
+          bars.transition()
+            .attr ("width", function(d) {return xscale(d[xColumn]);})
+            .duration(800)
+            .ease ("bounce");
+          txt.transition()
+            .attr ("x", function(d) {return xscale(d[xColumn])+2;})
+            .duration(800)
+            .ease ("bounce");
+          bars.exit().remove();
+        }
+
+        function updateLegend(newData, newFunction){
+          d3.csv("dataMain.csv", type, function(d){
+            d = d.filter(function(row){
+              if(row["GovernmentFunction"] == newFunction){
+                return(row);};});
+            column = newData;
+            var y = column,
+                xColumn = column;
+                d2 = d.slice().sort(function(a, b){return b[y]-a[y]});
+            var dRank2 = d2.filter(function(i){return d2.indexOf(i)<16});
+            chart(dRank2, y);
+            drawAxes(dRank2, y);
+            queue()
+              .defer(d3.json, "us-states-10m.json")
+              .defer(d3.csv, "dataMain.csv")
+              .await(ready);
+          });}
+
+        updateLegend(data1, initialFunction);
       </script>
     </article>
   <aside class="aside aside-2">
