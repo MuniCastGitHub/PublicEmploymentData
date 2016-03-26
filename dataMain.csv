@@ -1,0 +1,1901 @@
+LevelofGovernment,StateorUS,GovernmentFunction,Data1,Data2,Data3,Data4,StateAbv,StateCode
+State Only,Alabama,Total,88687,18.29952103,50802.81868,4505549580,AL,1
+State Only,Alabama,Financial Administration,2463,0.508211128,52264.60414,128727720,AL,1
+State Only,Alabama,Other Government Administration,629,0.129786764,61801.56439,38873184,AL,1
+State Only,Alabama,Judicial and Legal,3195,0.659250732,54934.66291,175516248,AL,1
+State Only,Alabama,Police Protection Total,1367,0.282064398,44907.51134,61388568,AL,1
+State Only,Alabama,Police Officers Only,689,0.142167059,54245.0508,37374840,AL,1
+State Only,Alabama,Other Police Employees,678,0.139897338,35418.47788,24013728,AL,1
+State Only,Alabama,Fire Protection Total,0,0,0,0,AL,1
+State Only,Alabama,Firefighters Only,0,0,0,0,AL,1
+State Only,Alabama,Other Fire Employees,0,0,0,0,AL,1
+State Only,Alabama,Corrections,4841,0.998883504,39967.70915,193483680,AL,1
+State Only,Alabama,Highways,4217,0.870128431,40763.63291,171900240,AL,1
+State Only,Alabama,Air Transportation,0,0,0,0,AL,1
+State Only,Alabama,Water Transport and Terminals,584,0.120501542,58229.36301,34005948,AL,1
+State Only,Alabama,Public Welfare,3954,0.815861469,41717.31108,164950248,AL,1
+State Only,Alabama,Health,4342,0.895920713,49044.6246,212951760,AL,1
+State Only,Alabama,Hospitals,11874,2.450060467,51027.56038,605901252,AL,1
+State Only,Alabama,Social Insurance Administration,982,0.202624169,42898.41141,42126240,AL,1
+State Only,Alabama,Solid Waste Management,0,0,0,0,AL,1
+State Only,Alabama,Sewerage,0,0,0,0,AL,1
+State Only,Alabama,Parks and Recreation,560,0.115549424,29114.57143,16304160,AL,1
+State Only,Alabama,Housing and Community Development,0,0,0,0,AL,1
+State Only,Alabama,Natural Resources,2002,0.413089191,44094.07792,88276344,AL,1
+State Only,Alabama,Water Supply,0,0,0,0,AL,1
+State Only,Alabama,Electric Power,0,0,0,0,AL,1
+State Only,Alabama,Gas Supply,0,0,0,0,AL,1
+State Only,Alabama,Transit,0,0,0,0,AL,1
+State Only,Alabama,Education Total,44642,9.211352483,54703.53353,2442075144,AL,1
+State Only,Alabama,Elementary & Secondary Education Total,0,0,0,0,AL,1
+State Only,Alabama,Elem & Sec Instructional Employees,0,0,0,0,AL,1
+State Only,Alabama,Elem & Sec Other Employees,0,0,0,0,AL,1
+State Only,Alabama,Higher Education Total,41719,8.608225757,55251.97402,2305057104,AL,1
+State Only,Alabama,Higher Ed Instructional Employees,12537,2.586862732,82915.22565,1039508184,AL,1
+State Only,Alabama,Higher Ed Other Employees,29182,6.021363025,43367.4498,1265548920,AL,1
+State Only,Alabama,Other Education,2923,0.603126726,46875.82621,137018040,AL,1
+State Only,Alabama,Local Libraries,0,0,0,0,AL,1
+State Only,Alabama,State Liquor Stores,749,0.154547355,32438.03471,24296088,AL,1
+State Only,Alabama,All Other and Unallocable,2286,0.471689256,45832.35171,104772756,AL,1
+State Only,Alaska,Total,27049,36.69920195,65529.19487,1772499192,AK,2
+State Only,Alaska,Financial Administration,1113,1.510082139,72221.86523,80382936,AK,2
+State Only,Alaska,Other Government Administration,752,1.0202891,67601.68085,50836464,AK,2
+State Only,Alaska,Judicial and Legal,1503,2.039221433,76405.65269,114837696,AK,2
+State Only,Alaska,Police Protection Total,696,0.944310124,81137.96552,56472024,AK,2
+State Only,Alaska,Police Officers Only,310,0.4205979,107609.2645,33358872,AK,2
+State Only,Alaska,Other Police Employees,386,0.523712224,59878.63212,23113152,AK,2
+State Only,Alaska,Fire Protection Total,0,0,0,0,AK,2
+State Only,Alaska,Firefighters Only,0,0,0,0,AK,2
+State Only,Alaska,Other Fire Employees,0,0,0,0,AK,2
+State Only,Alaska,Corrections,2238,3.036445486,68088.46113,152381976,AK,2
+State Only,Alaska,Highways,3188,4.325374536,70086.5345,223435872,AK,2
+State Only,Alaska,Air Transportation,0,0,0,0,AK,2
+State Only,Alaska,Water Transport and Terminals,0,0,0,0,AK,2
+State Only,Alaska,Public Welfare,1934,2.623988191,57628.6908,111453888,AK,2
+State Only,Alaska,Health,736,0.998580821,69062.05435,50829672,AK,2
+State Only,Alaska,Hospitals,255,0.345975692,62467.10588,15929112,AK,2
+State Only,Alaska,Social Insurance Administration,324,0.439592644,59130.14815,19158168,AK,2
+State Only,Alaska,Solid Waste Management,0,0,0,0,AK,2
+State Only,Alaska,Sewerage,0,0,0,0,AK,2
+State Only,Alaska,Parks and Recreation,116,0.157385021,52503.10345,6090360,AK,2
+State Only,Alaska,Housing and Community Development,0,0,0,0,AK,2
+State Only,Alaska,Natural Resources,2409,3.268452715,68092.25903,164034252,AK,2
+State Only,Alaska,Water Supply,0,0,0,0,AK,2
+State Only,Alaska,Electric Power,0,0,0,0,AK,2
+State Only,Alaska,Gas Supply,0,0,0,0,AK,2
+State Only,Alaska,Transit,0,0,0,0,AK,2
+State Only,Alaska,Education Total,8992,12.20005264,58383.34831,524983068,AK,2
+State Only,Alaska,Elementary & Secondary Education Total,3103,4.210049305,48962.98937,151932156,AK,2
+State Only,Alaska,Elem & Sec Instructional Employees,2209,2.997099231,52716.67361,116451132,AK,2
+State Only,Alaska,Elem & Sec Other Employees,894,1.212950074,39687.94631,35481024,AK,2
+State Only,Alaska,Higher Education Total,5614,7.616892297,63101.16423,354249936,AK,2
+State Only,Alaska,Higher Ed Instructional Employees,1592,2.159973733,91480.81658,145637460,AK,2
+State Only,Alaska,Higher Ed Other Employees,4022,5.456918564,51867.84585,208612476,AK,2
+State Only,Alaska,Other Education,275,0.373111041,68367.18545,18800976,AK,2
+State Only,Alaska,Local Libraries,0,0,0,0,AK,2
+State Only,Alaska,State Liquor Stores,0,0,0,0,AK,2
+State Only,Alaska,All Other and Unallocable,2793,3.789451405,72206.83996,201673704,AK,2
+State Only,Arizona,Total,78689,11.69438812,52733.50247,4149546576,AZ,4
+State Only,Arizona,Financial Administration,2473,0.367525599,46544.71977,115105092,AZ,4
+State Only,Arizona,Other Government Administration,779,0.115771307,49773.98203,38773932,AZ,4
+State Only,Arizona,Judicial and Legal,2131,0.316699171,57626.16237,122801352,AZ,4
+State Only,Arizona,Police Protection Total,1928,0.286530269,60426.64108,116502564,AZ,4
+State Only,Arizona,Police Officers Only,1141,0.16957004,65885.10079,75174900,AZ,4
+State Only,Arizona,Other Police Employees,787,0.116960229,52512.91487,41327664,AZ,4
+State Only,Arizona,Fire Protection Total,0,0,0,0,AZ,4
+State Only,Arizona,Firefighters Only,0,0,0,0,AZ,4
+State Only,Arizona,Other Fire Employees,0,0,0,0,AZ,4
+State Only,Arizona,Corrections,9586,1.424626117,43493.12497,416925096,AZ,4
+State Only,Arizona,Highways,2986,0.44376524,52101.01808,155573640,AZ,4
+State Only,Arizona,Air Transportation,0,0,0,0,AZ,4
+State Only,Arizona,Water Transport and Terminals,0,0,0,0,AZ,4
+State Only,Arizona,Public Welfare,5715,0.849336351,40135.43307,229374000,AZ,4
+State Only,Arizona,Health,2361,0.350880687,50978.97332,120361356,AZ,4
+State Only,Arizona,Hospitals,7046,1.047143295,56746.03633,399832572,AZ,4
+State Only,Arizona,Social Insurance Administration,1946,0.289205344,35412.31449,68912364,AZ,4
+State Only,Arizona,Solid Waste Management,0,0,0,0,AZ,4
+State Only,Arizona,Sewerage,0,0,0,0,AZ,4
+State Only,Arizona,Parks and Recreation,352,0.05231258,31269.13636,11006736,AZ,4
+State Only,Arizona,Housing and Community Development,0,0,0,0,AZ,4
+State Only,Arizona,Natural Resources,1526,0.226786924,49820.18611,76025604,AZ,4
+State Only,Arizona,Water Supply,0,0,0,0,AZ,4
+State Only,Arizona,Electric Power,6,0.000891692,97176,583056,AZ,4
+State Only,Arizona,Gas Supply,0,0,0,0,AZ,4
+State Only,Arizona,Transit,0,0,0,0,AZ,4
+State Only,Arizona,Education Total,36613,5.441251412,57585.46615,2108376672,AZ,4
+State Only,Arizona,Elementary & Secondary Education Total,0,0,0,0,AZ,4
+State Only,Arizona,Elem & Sec Instructional Employees,0,0,0,0,AZ,4
+State Only,Arizona,Elem & Sec Other Employees,0,0,0,0,AZ,4
+State Only,Arizona,Higher Education Total,33651,5.001052939,58811.70045,1979072532,AZ,4
+State Only,Arizona,Higher Ed Instructional Employees,11262,1.673705334,73817.01225,831327192,AZ,4
+State Only,Arizona,Higher Ed Other Employees,22389,3.327347605,51263.80544,1147745340,AZ,4
+State Only,Arizona,Other Education,2962,0.440198473,43654.33491,129304140,AZ,4
+State Only,Arizona,Local Libraries,0,0,0,0,AZ,4
+State Only,Arizona,State Liquor Stores,0,0,0,0,AZ,4
+State Only,Arizona,All Other and Unallocable,3241,0.481662137,52265.51682,169392540,AZ,4
+State Only,Arkansas,Total,62079,20.92431834,47389.82187,2941912752,AR,5
+State Only,Arkansas,Financial Administration,1973,0.665018446,44446.68626,87693312,AR,5
+State Only,Arkansas,Other Government Administration,775,0.261221133,53032.95484,41100540,AR,5
+State Only,Arkansas,Judicial and Legal,1385,0.466827444,47672.43032,66026316,AR,5
+State Only,Arkansas,Police Protection Total,1242,0.418627932,45383.90338,56366808,AR,5
+State Only,Arkansas,Police Officers Only,557,0.187742156,53506.34111,29803032,AR,5
+State Only,Arkansas,Other Police Employees,685,0.230885776,38779.23504,26563776,AR,5
+State Only,Arkansas,Fire Protection Total,0,0,0,0,AR,5
+State Only,Arkansas,Firefighters Only,0,0,0,0,AR,5
+State Only,Arkansas,Other Fire Employees,0,0,0,0,AR,5
+State Only,Arkansas,Corrections,5557,1.873039788,38004.49667,211190988,AR,5
+State Only,Arkansas,Highways,3373,1.136901783,47560.98784,160423212,AR,5
+State Only,Arkansas,Air Transportation,0,0,0,0,AR,5
+State Only,Arkansas,Water Transport and Terminals,0,0,0,0,AR,5
+State Only,Arkansas,Public Welfare,3927,1.32363276,37874.92437,148734828,AR,5
+State Only,Arkansas,Health,3747,1.262962045,45791.97758,171582540,AR,5
+State Only,Arkansas,Hospitals,6763,2.279533577,43937.35679,297148344,AR,5
+State Only,Arkansas,Social Insurance Administration,1285,0.433121491,44617.30739,57333240,AR,5
+State Only,Arkansas,Solid Waste Management,0,0,0,0,AR,5
+State Only,Arkansas,Sewerage,0,0,0,0,AR,5
+State Only,Arkansas,Parks and Recreation,782,0.26358055,32735.10997,25598856,AR,5
+State Only,Arkansas,Housing and Community Development,0,0,0,0,AR,5
+State Only,Arkansas,Natural Resources,1953,0.658277255,42290.75883,82593852,AR,5
+State Only,Arkansas,Water Supply,0,0,0,0,AR,5
+State Only,Arkansas,Electric Power,0,0,0,0,AR,5
+State Only,Arkansas,Gas Supply,0,0,0,0,AR,5
+State Only,Arkansas,Transit,0,0,0,0,AR,5
+State Only,Arkansas,Education Total,26907,9.069260677,52891.69138,1423156740,AR,5
+State Only,Arkansas,Elementary & Secondary Education Total,0,0,0,0,AR,5
+State Only,Arkansas,Elem & Sec Instructional Employees,0,0,0,0,AR,5
+State Only,Arkansas,Elem & Sec Other Employees,0,0,0,0,AR,5
+State Only,Arkansas,Higher Education Total,25531,8.605466768,53279.55113,1360280220,AR,5
+State Only,Arkansas,Higher Ed Instructional Employees,8511,2.868713629,78477.26331,667919988,AR,5
+State Only,Arkansas,Higher Ed Other Employees,17020,5.736753139,40679.21457,692360232,AR,5
+State Only,Arkansas,Other Education,1376,0.463793908,45695.14535,62876520,AR,5
+State Only,Arkansas,Local Libraries,0,0,0,0,AR,5
+State Only,Arkansas,State Liquor Stores,0,0,0,0,AR,5
+State Only,Arkansas,All Other and Unallocable,2410,0.812313459,46872.68714,112963176,AR,5
+State Only,California,Total,406842,10.48770231,76739.86432,31220999880,CA,6
+State Only,California,Financial Administration,26100,0.672814091,59209.37793,1545364764,CA,6
+State Only,California,Other Government Administration,3975,0.102468813,67783.22415,269438316,CA,6
+State Only,California,Judicial and Legal,6355,0.163821209,79953.33564,508103448,CA,6
+State Only,California,Police Protection Total,11347,0.29250657,94175.63515,1068610932,CA,6
+State Only,California,Police Officers Only,7771,0.200323307,113965.694,885627408,CA,6
+State Only,California,Other Police Employees,3576,0.092183264,51169.88926,182983524,CA,6
+State Only,California,Fire Protection Total,0,0,0,0,CA,6
+State Only,California,Firefighters Only,0,0,0,0,CA,6
+State Only,California,Other Fire Employees,0,0,0,0,CA,6
+State Only,California,Corrections,53397,1.376484828,88533.04208,4727398848,CA,6
+State Only,California,Highways,19680,0.507317291,91707.44817,1804802580,CA,6
+State Only,California,Air Transportation,0,0,0,0,CA,6
+State Only,California,Water Transport and Terminals,0,0,0,0,CA,6
+State Only,California,Public Welfare,3653,0.094168194,59092.36573,215864412,CA,6
+State Only,California,Health,13823,0.356333685,74913.051,1035523104,CA,6
+State Only,California,Hospitals,42416,1.093413122,94634.83478,4014031152,CA,6
+State Only,California,Social Insurance Administration,13894,0.358163946,61572.69613,855491040,CA,6
+State Only,California,Solid Waste Management,650,0.016755906,67404.31385,43812804,CA,6
+State Only,California,Sewerage,0,0,0,0,CA,6
+State Only,California,Parks and Recreation,3280,0.084552882,51693.00732,169553064,CA,6
+State Only,California,Housing and Community Development,0,0,0,0,CA,6
+State Only,California,Natural Resources,15619,0.402631543,70927.71445,1107819972,CA,6
+State Only,California,Water Supply,0,0,0,0,CA,6
+State Only,California,Electric Power,0,0,0,0,CA,6
+State Only,California,Gas Supply,0,0,0,0,CA,6
+State Only,California,Transit,0,0,0,0,CA,6
+State Only,California,Education Total,170869,4.40471536,72017.21522,12305509548,CA,6
+State Only,California,Elementary & Secondary Education Total,0,0,0,0,CA,6
+State Only,California,Elem & Sec Instructional Employees,0,0,0,0,CA,6
+State Only,California,Elem & Sec Other Employees,0,0,0,0,CA,6
+State Only,California,Higher Education Total,166584,4.294255268,72307.90751,12045340464,CA,6
+State Only,California,Higher Ed Instructional Employees,36223,0.933768,97813.09522,3543083748,CA,6
+State Only,California,Higher Ed Other Employees,130361,3.360487268,65220.86142,8502256716,CA,6
+State Only,California,Other Education,4285,0.110460091,60716.23897,260169084,CA,6
+State Only,California,Local Libraries,0,0,0,0,CA,6
+State Only,California,State Liquor Stores,0,0,0,0,CA,6
+State Only,California,All Other and Unallocable,21784,0.561554872,71138.26184,1549675896,CA,6
+State Only,Colorado,Total,79518,14.84766939,59373.15612,4721234628,CO,8
+State Only,Colorado,Financial Administration,1812,0.338338199,61059.77483,110640312,CO,8
+State Only,Colorado,Other Government Administration,574,0.107177774,49791.36585,28580244,CO,8
+State Only,Colorado,Judicial and Legal,4810,0.898127339,62634.30686,301271016,CO,8
+State Only,Colorado,Police Protection Total,1226,0.228919775,66117.18108,81059664,CO,8
+State Only,Colorado,Police Officers Only,754,0.140787529,72775.25729,54872544,CO,8
+State Only,Colorado,Other Police Employees,472,0.088132246,55481.18644,26187120,CO,8
+State Only,Colorado,Fire Protection Total,0,0,0,0,CO,8
+State Only,Colorado,Firefighters Only,0,0,0,0,CO,8
+State Only,Colorado,Other Fire Employees,0,0,0,0,CO,8
+State Only,Colorado,Corrections,7139,1.333000223,51028.14008,364289892,CO,8
+State Only,Colorado,Highways,3109,0.580515155,56232.53265,174826944,CO,8
+State Only,Colorado,Air Transportation,0,0,0,0,CO,8
+State Only,Colorado,Water Transport and Terminals,0,0,0,0,CO,8
+State Only,Colorado,Public Welfare,2404,0.448876949,51880.52246,124720776,CO,8
+State Only,Colorado,Health,1290,0.24086991,68105.36744,87855924,CO,8
+State Only,Colorado,Hospitals,5791,1.081300503,51976.00553,300993048,CO,8
+State Only,Colorado,Social Insurance Administration,1167,0.217903244,53750.19023,62726472,CO,8
+State Only,Colorado,Solid Waste Management,0,0,0,0,CO,8
+State Only,Colorado,Sewerage,0,0,0,0,CO,8
+State Only,Colorado,Parks and Recreation,987,0.184293489,57158.74772,56415684,CO,8
+State Only,Colorado,Housing and Community Development,0,0,0,0,CO,8
+State Only,Colorado,Natural Resources,1094,0.204272621,62425.00914,68292960,CO,8
+State Only,Colorado,Water Supply,0,0,0,0,CO,8
+State Only,Colorado,Electric Power,0,0,0,0,CO,8
+State Only,Colorado,Gas Supply,0,0,0,0,CO,8
+State Only,Colorado,Transit,0,0,0,0,CO,8
+State Only,Colorado,Education Total,45733,8.539305115,61352.9691,2805855336,CO,8
+State Only,Colorado,Elementary & Secondary Education Total,0,0,0,0,CO,8
+State Only,Colorado,Elem & Sec Instructional Employees,0,0,0,0,CO,8
+State Only,Colorado,Elem & Sec Other Employees,0,0,0,0,CO,8
+State Only,Colorado,Higher Education Total,44100,8.234389949,61620.97605,2717485044,CO,8
+State Only,Colorado,Higher Ed Instructional Employees,18565,3.466472776,76718.58486,1424280528,CO,8
+State Only,Colorado,Higher Ed Other Employees,25535,4.767917174,50644.39068,1293204516,CO,8
+State Only,Colorado,Other Education,1633,0.304915165,54115.30435,88370292,CO,8
+State Only,Colorado,Local Libraries,0,0,0,0,CO,8
+State Only,Colorado,State Liquor Stores,0,0,0,0,CO,8
+State Only,Colorado,All Other and Unallocable,2382,0.44476909,64528.27708,153706356,CO,8
+State Only,Connecticut,Total,63013,17.52911597,74563.59291,4698475680,CT,9
+State Only,Connecticut,Financial Administration,2286,0.635925271,73339.33858,167653728,CT,9
+State Only,Connecticut,Other Government Administration,1629,0.453159347,75162.32044,122439420,CT,9
+State Only,Connecticut,Judicial and Legal,6179,1.718889874,83080.43373,513354000,CT,9
+State Only,Connecticut,Police Protection Total,1947,0.541621392,86264.19723,167956392,CT,9
+State Only,Connecticut,Police Officers Only,1278,0.355517278,94755.85915,121097988,CT,9
+State Only,Connecticut,Other Police Employees,669,0.186104115,70042.4574,46858404,CT,9
+State Only,Connecticut,Fire Protection Total,0,0,0,0,CT,9
+State Only,Connecticut,Firefighters Only,0,0,0,0,CT,9
+State Only,Connecticut,Other Fire Employees,0,0,0,0,CT,9
+State Only,Connecticut,Corrections,5762,1.602887757,77300.25963,445404096,CT,9
+State Only,Connecticut,Highways,3189,0.887124099,67602.03951,215582904,CT,9
+State Only,Connecticut,Air Transportation,144,0.040058285,80872.16667,11645592,CT,9
+State Only,Connecticut,Water Transport and Terminals,0,0,0,0,CT,9
+State Only,Connecticut,Public Welfare,5484,1.525553013,76077.7965,417210636,CT,9
+State Only,Connecticut,Health,3883,1.080182777,74026.393,287444484,CT,9
+State Only,Connecticut,Hospitals,6465,1.798450078,77140.77216,498715092,CT,9
+State Only,Connecticut,Social Insurance Administration,694,0.193058678,79129.29683,54915732,CT,9
+State Only,Connecticut,Solid Waste Management,45,0.012518214,76926.66667,3461700,CT,9
+State Only,Connecticut,Sewerage,0,0,0,0,CT,9
+State Only,Connecticut,Parks and Recreation,161,0.044787388,68301.61491,10996560,CT,9
+State Only,Connecticut,Housing and Community Development,44,0.012240031,83787,3686628,CT,9
+State Only,Connecticut,Natural Resources,712,0.198065964,69139.9382,49227636,CT,9
+State Only,Connecticut,Water Supply,0,0,0,0,CT,9
+State Only,Connecticut,Electric Power,0,0,0,0,CT,9
+State Only,Connecticut,Gas Supply,0,0,0,0,CT,9
+State Only,Connecticut,Transit,0,0,0,0,CT,9
+State Only,Connecticut,Education Total,21658,6.024877308,70437.45905,1525534488,CT,9
+State Only,Connecticut,Elementary & Secondary Education Total,0,0,0,0,CT,9
+State Only,Connecticut,Elem & Sec Instructional Employees,0,0,0,0,CT,9
+State Only,Connecticut,Elem & Sec Other Employees,0,0,0,0,CT,9
+State Only,Connecticut,Higher Education Total,18669,5.193389715,70205.75478,1310671236,CT,9
+State Only,Connecticut,Higher Ed Instructional Employees,7170,1.994568764,88054.23264,631348848,CT,9
+State Only,Connecticut,Higher Ed Other Employees,11499,3.198820951,59076.6491,679322388,CT,9
+State Only,Connecticut,Other Education,2989,0.831487592,71884.66109,214863252,CT,9
+State Only,Connecticut,Local Libraries,0,0,0,0,CT,9
+State Only,Connecticut,State Liquor Stores,0,0,0,0,CT,9
+State Only,Connecticut,All Other and Unallocable,2731,0.759716499,74422.04028,203246592,CT,9
+State Only,Delaware,Total,26135,27.92296318,53023.32673,1385764644,DE,10
+State Only,Delaware,Financial Administration,816,0.871824678,39297.20588,32066520,DE,10
+State Only,Delaware,Other Government Administration,414,0.442322814,53397.04348,22106376,DE,10
+State Only,Delaware,Judicial and Legal,1803,1.926347909,55668.13311,100369644,DE,10
+State Only,Delaware,Police Protection Total,1065,1.137859414,77697.27324,82747596,DE,10
+State Only,Delaware,Police Officers Only,790,0.84404595,84546.51646,66791748,DE,10
+State Only,Delaware,Other Police Employees,275,0.293813464,58021.26545,15955848,DE,10
+State Only,Delaware,Fire Protection Total,0,0,0,0,DE,10
+State Only,Delaware,Firefighters Only,0,0,0,0,DE,10
+State Only,Delaware,Other Fire Employees,0,0,0,0,DE,10
+State Only,Delaware,Corrections,2878,3.074891449,48896.87283,140725200,DE,10
+State Only,Delaware,Highways,1494,1.596208417,43499.91968,64988880,DE,10
+State Only,Delaware,Air Transportation,0,0,0,0,DE,10
+State Only,Delaware,Water Transport and Terminals,273,0.291676639,49151.2967,13418304,DE,10
+State Only,Delaware,Public Welfare,1584,1.692365551,42753.74242,67721928,DE,10
+State Only,Delaware,Health,2150,2.29708708,45193.80279,97166676,DE,10
+State Only,Delaware,Hospitals,1386,1.480819857,41303.31602,57246396,DE,10
+State Only,Delaware,Social Insurance Administration,332,0.354712982,39916.3012,13252212,DE,10
+State Only,Delaware,Solid Waste Management,133,0.142098875,46017.74436,6120360,DE,10
+State Only,Delaware,Sewerage,0,0,0,0,DE,10
+State Only,Delaware,Parks and Recreation,312,0.33334473,30793.15385,9607464,DE,10
+State Only,Delaware,Housing and Community Development,0,0,0,0,DE,10
+State Only,Delaware,Natural Resources,514,0.549164074,45244.99611,23255928,DE,10
+State Only,Delaware,Water Supply,0,0,0,0,DE,10
+State Only,Delaware,Electric Power,0,0,0,0,DE,10
+State Only,Delaware,Gas Supply,0,0,0,0,DE,10
+State Only,Delaware,Transit,880,0.940203084,51304.59545,45148044,DE,10
+State Only,Delaware,Education Total,8329,8.898808506,62604.51867,521433036,DE,10
+State Only,Delaware,Elementary & Secondary Education Total,0,0,0,0,DE,10
+State Only,Delaware,Elem & Sec Instructional Employees,0,0,0,0,DE,10
+State Only,Delaware,Elem & Sec Other Employees,0,0,0,0,DE,10
+State Only,Delaware,Higher Education Total,7974,8.519522035,62266.24981,496511076,DE,10
+State Only,Delaware,Higher Ed Instructional Employees,2434,2.600516257,86995.20296,211746324,DE,10
+State Only,Delaware,Higher Ed Other Employees,5540,5.919005778,51401.57978,284764752,DE,10
+State Only,Delaware,Other Education,355,0.379286471,70202.70423,24921960,DE,10
+State Only,Delaware,Local Libraries,0,0,0,0,DE,10
+State Only,Delaware,State Liquor Stores,0,0,0,0,DE,10
+State Only,Delaware,All Other and Unallocable,1772,1.893227119,49881.53499,88390080,DE,10
+State Only,Florida,Total,176990,8.891481575,49659.89737,8789305236,FL,12
+State Only,Florida,Financial Administration,6338,0.318403357,42562.05554,269758308,FL,12
+State Only,Florida,Other Government Administration,2088,0.104895268,51621.51724,107785728,FL,12
+State Only,Florida,Judicial and Legal,19321,0.970632892,49499.57021,956381196,FL,12
+State Only,Florida,Police Protection Total,4272,0.214613307,47365.79775,202346688,FL,12
+State Only,Florida,Police Officers Only,2318,0.116449824,52399.1855,121461312,FL,12
+State Only,Florida,Other Police Employees,1954,0.098163484,41394.76766,80885376,FL,12
+State Only,Florida,Fire Protection Total,0,0,0,0,FL,12
+State Only,Florida,Firefighters Only,0,0,0,0,FL,12
+State Only,Florida,Other Fire Employees,0,0,0,0,FL,12
+State Only,Florida,Corrections,23071,1.159022382,38035.16536,877509300,FL,12
+State Only,Florida,Highways,6352,0.319106678,52187.17443,331492932,FL,12
+State Only,Florida,Air Transportation,0,0,0,0,FL,12
+State Only,Florida,Water Transport and Terminals,0,0,0,0,FL,12
+State Only,Florida,Public Welfare,9005,0.452385963,37885.46185,341158584,FL,12
+State Only,Florida,Health,17437,0.875986012,40354.13844,703655112,FL,12
+State Only,Florida,Hospitals,3895,0.195673884,40875.09628,159208500,FL,12
+State Only,Florida,Social Insurance Administration,2499,0.125542756,41990.34814,104933880,FL,12
+State Only,Florida,Solid Waste Management,0,0,0,0,FL,12
+State Only,Florida,Sewerage,0,0,0,0,FL,12
+State Only,Florida,Parks and Recreation,1310,0.065810729,30538.30534,40005180,FL,12
+State Only,Florida,Housing and Community Development,0,0,0,0,FL,12
+State Only,Florida,Natural Resources,8137,0.408780076,40895.47942,332766516,FL,12
+State Only,Florida,Water Supply,0,0,0,0,FL,12
+State Only,Florida,Electric Power,0,0,0,0,FL,12
+State Only,Florida,Gas Supply,0,0,0,0,FL,12
+State Only,Florida,Transit,732,0.036773629,52824.88525,38667816,FL,12
+State Only,Florida,Education Total,65888,3.310028465,61468.14066,4050012852,FL,12
+State Only,Florida,Elementary & Secondary Education Total,0,0,0,0,FL,12
+State Only,Florida,Elem & Sec Instructional Employees,0,0,0,0,FL,12
+State Only,Florida,Elem & Sec Other Employees,0,0,0,0,FL,12
+State Only,Florida,Higher Education Total,62979,3.163888458,62330.79064,3925530864,FL,12
+State Only,Florida,Higher Ed Instructional Employees,21094,1.059703443,94716.60984,1997952168,FL,12
+State Only,Florida,Higher Ed Other Employees,41885,2.104185015,46020.74003,1927578696,FL,12
+State Only,Florida,Other Education,2909,0.146140007,42792.02063,124481988,FL,12
+State Only,Florida,Local Libraries,0,0,0,0,FL,12
+State Only,Florida,State Liquor Stores,0,0,0,0,FL,12
+State Only,Florida,All Other and Unallocable,6645,0.333826177,41177.22257,273622644,FL,12
+State Only,Georgia,Total,131916,13.06469996,46367.78122,6116652228,GA,13
+State Only,Georgia,Financial Administration,3219,0.318803399,45429.0699,146236176,GA,13
+State Only,Georgia,Other Government Administration,1378,0.136474397,36314.54282,50041440,GA,13
+State Only,Georgia,Judicial and Legal,3783,0.374660844,50346.56305,190461048,GA,13
+State Only,Georgia,Police Protection Total,2924,0.289587182,41513.08071,121384248,GA,13
+State Only,Georgia,Police Officers Only,1728,0.171137705,41144.52778,71097744,GA,13
+State Only,Georgia,Other Police Employees,1196,0.118449477,42045.57191,50286504,GA,13
+State Only,Georgia,Fire Protection Total,0,0,0,0,GA,13
+State Only,Georgia,Firefighters Only,0,0,0,0,GA,13
+State Only,Georgia,Other Fire Employees,0,0,0,0,GA,13
+State Only,Georgia,Corrections,20407,2.021068953,26510.65497,541002936,GA,13
+State Only,Georgia,Highways,4892,0.484494013,35021.61243,171325728,GA,13
+State Only,Georgia,Air Transportation,2,0.000198076,50556,101112,GA,13
+State Only,Georgia,Water Transport and Terminals,983,0.097354377,75235.3001,73956300,GA,13
+State Only,Georgia,Public Welfare,7036,0.696831536,40006.06936,281482704,GA,13
+State Only,Georgia,Health,3718,0.368223373,53154.27111,197627580,GA,13
+State Only,Georgia,Hospitals,7793,0.77180332,47509.79084,370243800,GA,13
+State Only,Georgia,Social Insurance Administration,1740,0.172326162,30758.93793,53520552,GA,13
+State Only,Georgia,Solid Waste Management,0,0,0,0,GA,13
+State Only,Georgia,Sewerage,0,0,0,0,GA,13
+State Only,Georgia,Parks and Recreation,3397,0.336432167,28219.25581,95860812,GA,13
+State Only,Georgia,Housing and Community Development,0,0,0,0,GA,13
+State Only,Georgia,Natural Resources,4845,0.479839226,39941.64706,193517280,GA,13
+State Only,Georgia,Water Supply,0,0,0,0,GA,13
+State Only,Georgia,Electric Power,0,0,0,0,GA,13
+State Only,Georgia,Gas Supply,0,0,0,0,GA,13
+State Only,Georgia,Transit,0,0,0,0,GA,13
+State Only,Georgia,Education Total,63453,6.284259728,55637.50896,3530366856,GA,13
+State Only,Georgia,Elementary & Secondary Education Total,0,0,0,0,GA,13
+State Only,Georgia,Elem & Sec Instructional Employees,0,0,0,0,GA,13
+State Only,Georgia,Elem & Sec Other Employees,0,0,0,0,GA,13
+State Only,Georgia,Higher Education Total,60931,6.034485832,55657.63188,3391275168,GA,13
+State Only,Georgia,Higher Ed Instructional Employees,20275,2.007995934,72864.83512,1477334532,GA,13
+State Only,Georgia,Higher Ed Other Employees,40656,4.026489898,47076.46192,1913940636,GA,13
+State Only,Georgia,Other Education,2522,0.249773896,55151.34338,139091688,GA,13
+State Only,Georgia,Local Libraries,0,0,0,0,GA,13
+State Only,Georgia,State Liquor Stores,0,0,0,0,GA,13
+State Only,Georgia,All Other and Unallocable,2346,0.232343204,42422.70077,99523656,GA,13
+State Only,Hawaii,Total,58409,41.12565543,52609.06936,3072843132,HI,15
+State Only,Hawaii,Financial Administration,687,0.483715271,48977.08297,33647256,HI,15
+State Only,Hawaii,Other Government Administration,777,0.547084084,55534.02317,43149936,HI,15
+State Only,Hawaii,Judicial and Legal,2498,1.758836605,57532.41954,143715984,HI,15
+State Only,Hawaii,Police Protection Total,0,0,0,0,HI,15
+State Only,Hawaii,Police Officers Only,0,0,0,0,HI,15
+State Only,Hawaii,Other Police Employees,0,0,0,0,HI,15
+State Only,Hawaii,Fire Protection Total,0,0,0,0,HI,15
+State Only,Hawaii,Firefighters Only,0,0,0,0,HI,15
+State Only,Hawaii,Other Fire Employees,0,0,0,0,HI,15
+State Only,Hawaii,Corrections,2429,1.710253848,55276.25854,134266032,HI,15
+State Only,Hawaii,Highways,889,0.625943051,55830.4252,49633248,HI,15
+State Only,Hawaii,Air Transportation,992,0.698465137,49947.79839,49548216,HI,15
+State Only,Hawaii,Water Transport and Terminals,220,0.154901542,48995.56364,10779024,HI,15
+State Only,Hawaii,Public Welfare,414,0.291496539,49841.91304,20634552,HI,15
+State Only,Hawaii,Health,1988,1.399746666,57995.11871,115294296,HI,15
+State Only,Hawaii,Hospitals,4655,3.277575819,63056.32653,293527200,HI,15
+State Only,Hawaii,Social Insurance Administration,255,0.17954497,49640.94118,12658440,HI,15
+State Only,Hawaii,Solid Waste Management,0,0,0,0,HI,15
+State Only,Hawaii,Sewerage,0,0,0,0,HI,15
+State Only,Hawaii,Parks and Recreation,176,0.123921234,42615.54545,7500336,HI,15
+State Only,Hawaii,Housing and Community Development,0,0,0,0,HI,15
+State Only,Hawaii,Natural Resources,812,0.571727511,53328,43302336,HI,15
+State Only,Hawaii,Water Supply,0,0,0,0,HI,15
+State Only,Hawaii,Electric Power,0,0,0,0,HI,15
+State Only,Hawaii,Gas Supply,0,0,0,0,HI,15
+State Only,Hawaii,Transit,0,0,0,0,HI,15
+State Only,Hawaii,Education Total,37337,26.28890405,50924.71918,1901376240,HI,15
+State Only,Hawaii,Elementary & Secondary Education Total,26310,18.52481628,48170.38267,1267362768,HI,15
+State Only,Hawaii,Elem & Sec Instructional Employees,20755,14.61355234,50968.00617,1057840968,HI,15
+State Only,Hawaii,Elem & Sec Other Employees,5555,3.911263947,37717.69577,209521800,HI,15
+State Only,Hawaii,Higher Education Total,10901,7.675371429,57601.2153,627910848,HI,15
+State Only,Hawaii,Higher Ed Instructional Employees,3955,2.784707275,79594.5952,314796624,HI,15
+State Only,Hawaii,Higher Ed Other Employees,6946,4.890664154,45078.35071,313114224,HI,15
+State Only,Hawaii,Other Education,126,0.088716338,48433.52381,6102624,HI,15
+State Only,Hawaii,Local Libraries,549,0.386549758,40920.78689,22465512,HI,15
+State Only,Hawaii,State Liquor Stores,0,0,0,0,HI,15
+State Only,Hawaii,All Other and Unallocable,3731,2.626989341,51285.05066,191344524,HI,15
+State Only,Idaho,Total,23814,14.56686604,51910.38297,1236193860,ID,16
+State Only,Idaho,Financial Administration,1305,0.798259855,56482.4,73709532,ID,16
+State Only,Idaho,Other Government Administration,311,0.19023664,50883.89711,15824892,ID,16
+State Only,Idaho,Judicial and Legal,515,0.315022088,99212.03883,51094200,ID,16
+State Only,Idaho,Police Protection Total,488,0.298506367,56623.0082,27632028,ID,16
+State Only,Idaho,Police Officers Only,269,0.164545518,65173.69517,17531724,ID,16
+State Only,Idaho,Other Police Employees,219,0.133960849,46120.10959,10100304,ID,16
+State Only,Idaho,Fire Protection Total,0,0,0,0,ID,16
+State Only,Idaho,Firefighters Only,0,0,0,0,ID,16
+State Only,Idaho,Other Fire Employees,0,0,0,0,ID,16
+State Only,Idaho,Corrections,2024,1.238067391,52195.26877,105643224,ID,16
+State Only,Idaho,Highways,1468,0.897965875,45599.53406,66940116,ID,16
+State Only,Idaho,Air Transportation,0,0,0,0,ID,16
+State Only,Idaho,Water Transport and Terminals,0,0,0,0,ID,16
+State Only,Idaho,Public Welfare,1767,1.080862194,44567.24618,78750324,ID,16
+State Only,Idaho,Health,1734,1.060676313,55685.64014,96558900,ID,16
+State Only,Idaho,Hospitals,608,0.371909572,39788.78289,24191580,ID,16
+State Only,Idaho,Social Insurance Administration,633,0.387201907,59632.56872,37747416,ID,16
+State Only,Idaho,Solid Waste Management,0,0,0,0,ID,16
+State Only,Idaho,Sewerage,0,0,0,0,ID,16
+State Only,Idaho,Parks and Recreation,185,0.113163274,49091.61081,9081948,ID,16
+State Only,Idaho,Housing and Community Development,0,0,0,0,ID,16
+State Only,Idaho,Natural Resources,1851,1.132244438,55427.68233,102596640,ID,16
+State Only,Idaho,Water Supply,0,0,0,0,ID,16
+State Only,Idaho,Electric Power,0,0,0,0,ID,16
+State Only,Idaho,Gas Supply,0,0,0,0,ID,16
+State Only,Idaho,Transit,0,0,0,0,ID,16
+State Only,Idaho,Education Total,9619,5.883878576,48498.62564,466508280,ID,16
+State Only,Idaho,Elementary & Secondary Education Total,0,0,0,0,ID,16
+State Only,Idaho,Elem & Sec Instructional Employees,0,0,0,0,ID,16
+State Only,Idaho,Elem & Sec Other Employees,0,0,0,0,ID,16
+State Only,Idaho,Higher Education Total,9262,5.665504041,47740.95703,442176744,ID,16
+State Only,Idaho,Higher Ed Instructional Employees,3050,1.865664794,64854.80656,197807160,ID,16
+State Only,Idaho,Higher Ed Other Employees,6212,3.799839247,39338.31037,244369584,ID,16
+State Only,Idaho,Other Education,357,0.218374535,68155.56303,24331536,ID,16
+State Only,Idaho,Local Libraries,0,0,0,0,ID,16
+State Only,Idaho,State Liquor Stores,243,0.14864149,40279.55556,9787932,ID,16
+State Only,Idaho,All Other and Unallocable,1063,0.650230058,65970.69426,70126848,ID,16
+State Only,Illinois,Total,123001,9.548144341,65787.81685,8091967260,IL,17
+State Only,Illinois,Financial Administration,4899,0.380292511,60156.09308,294704700,IL,17
+State Only,Illinois,Other Government Administration,2021,0.156883275,77288.26522,156199584,IL,17
+State Only,Illinois,Judicial and Legal,2570,0.199500256,106346.3346,273310080,IL,17
+State Only,Illinois,Police Protection Total,3266,0.253528341,79969.80037,261181368,IL,17
+State Only,Illinois,Police Officers Only,1988,0.154321599,86566.64789,172094496,IL,17
+State Only,Illinois,Other Police Employees,1278,0.099206742,69708.03756,89086872,IL,17
+State Only,Illinois,Fire Protection Total,0,0,0,0,IL,17
+State Only,Illinois,Firefighters Only,0,0,0,0,IL,17
+State Only,Illinois,Other Fire Employees,0,0,0,0,IL,17
+State Only,Illinois,Corrections,10856,0.842713921,73513.95873,798067536,IL,17
+State Only,Illinois,Highways,6872,0.533449711,76952.56345,528818016,IL,17
+State Only,Illinois,Air Transportation,0,0,0,0,IL,17
+State Only,Illinois,Water Transport and Terminals,45,0.003493195,76502.4,3442608,IL,17
+State Only,Illinois,Public Welfare,9330,0.724255792,68975.11254,643537800,IL,17
+State Only,Illinois,Health,2350,0.182422413,79766.60936,187451532,IL,17
+State Only,Illinois,Hospitals,9850,0.764621603,64874.40122,639012852,IL,17
+State Only,Illinois,Social Insurance Administration,1573,0.122106577,71689.93007,112768260,IL,17
+State Only,Illinois,Solid Waste Management,0,0,0,0,IL,17
+State Only,Illinois,Sewerage,0,0,0,0,IL,17
+State Only,Illinois,Parks and Recreation,385,0.029886225,58764.40519,22624296,IL,17
+State Only,Illinois,Housing and Community Development,0,0,0,0,IL,17
+State Only,Illinois,Natural Resources,3043,0.236217618,57516.13408,175021596,IL,17
+State Only,Illinois,Water Supply,0,0,0,0,IL,17
+State Only,Illinois,Electric Power,0,0,0,0,IL,17
+State Only,Illinois,Gas Supply,0,0,0,0,IL,17
+State Only,Illinois,Transit,0,0,0,0,IL,17
+State Only,Illinois,Education Total,59802,4.642223461,59737.55714,3572425392,IL,17
+State Only,Illinois,Elementary & Secondary Education Total,0,0,0,0,IL,17
+State Only,Illinois,Elem & Sec Instructional Employees,0,0,0,0,IL,17
+State Only,Illinois,Elem & Sec Other Employees,0,0,0,0,IL,17
+State Only,Illinois,Higher Education Total,57863,4.491705563,59788.24188,3459527040,IL,17
+State Only,Illinois,Higher Ed Instructional Employees,18410,1.429104945,79347.58892,1460789112,IL,17
+State Only,Illinois,Higher Ed Other Employees,39453,3.062600619,50661.24067,1998737928,IL,17
+State Only,Illinois,Other Education,1939,0.150517897,58225.03971,112898352,IL,17
+State Only,Illinois,Local Libraries,0,0,0,0,IL,17
+State Only,Illinois,State Liquor Stores,0,0,0,0,IL,17
+State Only,Illinois,All Other and Unallocable,6139,0.476549444,68969.15459,423401640,IL,17
+State Only,Indiana,Total,87692,13.29093588,48396.66656,4244000484,IN,18
+State Only,Indiana,Financial Administration,1798,0.272511777,50220.77419,90296952,IN,18
+State Only,Indiana,Other Government Administration,780,0.118219792,47348.24615,36931632,IN,18
+State Only,Indiana,Judicial and Legal,1423,0.215675338,76672.81518,109105416,IN,18
+State Only,Indiana,Police Protection Total,1882,0.285243139,51377.70032,96692832,IN,18
+State Only,Indiana,Police Officers Only,1310,0.198548625,56845.53893,74467656,IN,18
+State Only,Indiana,Other Police Employees,572,0.086694514,38855.2028,22225176,IN,18
+State Only,Indiana,Fire Protection Total,0,0,0,0,IN,18
+State Only,Indiana,Firefighters Only,0,0,0,0,IN,18
+State Only,Indiana,Other Fire Employees,0,0,0,0,IN,18
+State Only,Indiana,Corrections,6082,0.921811248,33535.74219,203964384,IN,18
+State Only,Indiana,Highways,3525,0.534262521,41906.70979,147721152,IN,18
+State Only,Indiana,Air Transportation,0,0,0,0,IN,18
+State Only,Indiana,Water Transport and Terminals,28,0.004243787,73419.85714,2055756,IN,18
+State Only,Indiana,Public Welfare,5108,0.774188073,37253.83085,190292568,IN,18
+State Only,Indiana,Health,1678,0.254324116,44676.21454,74966688,IN,18
+State Only,Indiana,Hospitals,1889,0.286304086,36139.82001,68268120,IN,18
+State Only,Indiana,Social Insurance Administration,1269,0.192334507,33350.99764,42322416,IN,18
+State Only,Indiana,Solid Waste Management,0,0,0,0,IN,18
+State Only,Indiana,Sewerage,0,0,0,0,IN,18
+State Only,Indiana,Parks and Recreation,156,0.023643958,39163.92308,6109572,IN,18
+State Only,Indiana,Housing and Community Development,0,0,0,0,IN,18
+State Only,Indiana,Natural Resources,2272,0.344353035,43108.42606,97942344,IN,18
+State Only,Indiana,Water Supply,0,0,0,0,IN,18
+State Only,Indiana,Electric Power,0,0,0,0,IN,18
+State Only,Indiana,Gas Supply,0,0,0,0,IN,18
+State Only,Indiana,Transit,0,0,0,0,IN,18
+State Only,Indiana,Education Total,57469,8.710222071,51824.06125,2978276976,IN,18
+State Only,Indiana,Elementary & Secondary Education Total,0,0,0,0,IN,18
+State Only,Indiana,Elem & Sec Instructional Employees,0,0,0,0,IN,18
+State Only,Indiana,Elem & Sec Other Employees,0,0,0,0,IN,18
+State Only,Indiana,Higher Education Total,56497,8.562902023,51992.10351,2937397872,IN,18
+State Only,Indiana,Higher Ed Instructional Employees,24045,3.644352428,66061.3864,1588446036,IN,18
+State Only,Indiana,Higher Ed Other Employees,32452,4.918549595,41567.60249,1348951836,IN,18
+State Only,Indiana,Other Education,972,0.147320048,42056.69136,40879104,IN,18
+State Only,Indiana,Local Libraries,0,0,0,0,IN,18
+State Only,Indiana,State Liquor Stores,0,0,0,0,IN,18
+State Only,Indiana,All Other and Unallocable,2333,0.353598429,42457.64081,99053676,IN,18
+State Only,Iowa,Total,49888,16.04383497,65331.67255,3259266480,IA,19
+State Only,Iowa,Financial Administration,1027,0.330280198,60795.0964,62436564,IA,19
+State Only,Iowa,Other Government Administration,532,0.171089645,52915.42105,28151004,IA,19
+State Only,Iowa,Judicial and Legal,2282,0.733884529,66239.73181,151159068,IA,19
+State Only,Iowa,Police Protection Total,943,0.303266043,68648.51326,64735548,IA,19
+State Only,Iowa,Police Officers Only,649,0.208716503,71316.85054,46284636,IA,19
+State Only,Iowa,Other Police Employees,294,0.094549541,62758.20408,18450912,IA,19
+State Only,Iowa,Fire Protection Total,0,0,0,0,IA,19
+State Only,Iowa,Firefighters Only,0,0,0,0,IA,19
+State Only,Iowa,Other Fire Employees,0,0,0,0,IA,19
+State Only,Iowa,Corrections,2921,0.939385061,60234.56077,175945152,IA,19
+State Only,Iowa,Highways,2261,0.727130991,65982.22556,149185812,IA,19
+State Only,Iowa,Air Transportation,0,0,0,0,IA,19
+State Only,Iowa,Water Transport and Terminals,0,0,0,0,IA,19
+State Only,Iowa,Public Welfare,2651,0.852553851,60358.47001,160010304,IA,19
+State Only,Iowa,Health,414,0.13314119,71840.55072,29741988,IA,19
+State Only,Iowa,Hospitals,7934,2.551551207,67033.17671,531841224,IA,19
+State Only,Iowa,Social Insurance Administration,562,0.180737557,61327.00356,34465776,IA,19
+State Only,Iowa,Solid Waste Management,0,0,0,0,IA,19
+State Only,Iowa,Sewerage,0,0,0,0,IA,19
+State Only,Iowa,Parks and Recreation,107,0.034410887,65273.60748,6984276,IA,19
+State Only,Iowa,Housing and Community Development,93,0.029908528,77499.74194,7207476,IA,19
+State Only,Iowa,Natural Resources,1594,0.51262574,64451.9473,102736404,IA,19
+State Only,Iowa,Water Supply,0,0,0,0,IA,19
+State Only,Iowa,Electric Power,0,0,0,0,IA,19
+State Only,Iowa,Gas Supply,0,0,0,0,IA,19
+State Only,Iowa,Transit,0,0,0,0,IA,19
+State Only,Iowa,Education Total,23981,7.712219499,66333.477,1590743112,IA,19
+State Only,Iowa,Elementary & Secondary Education Total,0,0,0,0,IA,19
+State Only,Iowa,Elem & Sec Instructional Employees,0,0,0,0,IA,19
+State Only,Iowa,Elem & Sec Other Employees,0,0,0,0,IA,19
+State Only,Iowa,Higher Education Total,22941,7.377758539,66269.68851,1520292924,IA,19
+State Only,Iowa,Higher Ed Instructional Employees,6025,1.937622388,96424.62871,580958388,IA,19
+State Only,Iowa,Higher Ed Other Employees,16916,5.440136151,55529.35304,939334536,IA,19
+State Only,Iowa,Other Education,1040,0.33446096,67740.56538,70450188,IA,19
+State Only,Iowa,Local Libraries,0,0,0,0,IA,19
+State Only,Iowa,State Liquor Stores,0,0,0,0,IA,19
+State Only,Iowa,All Other and Unallocable,2586,0.831650041,63388.54292,163922772,IA,19
+State Only,Kansas,Total,49469,17.04354201,52655.19198,2604799692,KS,20
+State Only,Kansas,Financial Administration,1753,0.603960645,46951.63948,82306224,KS,20
+State Only,Kansas,Other Government Administration,568,0.195692896,42265.35211,24006720,KS,20
+State Only,Kansas,Judicial and Legal,2104,0.724890586,51325.75665,107989392,KS,20
+State Only,Kansas,Police Protection Total,1051,0.362100763,52526.10086,55204932,KS,20
+State Only,Kansas,Police Officers Only,279,0.096123799,62426.36559,17416956,KS,20
+State Only,Kansas,Other Police Employees,772,0.265976964,48948.15544,37787976,KS,20
+State Only,Kansas,Fire Protection Total,0,0,0,0,KS,20
+State Only,Kansas,Firefighters Only,0,0,0,0,KS,20
+State Only,Kansas,Other Fire Employees,0,0,0,0,KS,20
+State Only,Kansas,Corrections,3466,1.1941401,37715.53953,130722060,KS,20
+State Only,Kansas,Highways,2834,0.976397301,46392.68172,131476860,KS,20
+State Only,Kansas,Air Transportation,0,0,0,0,KS,20
+State Only,Kansas,Water Transport and Terminals,0,0,0,0,KS,20
+State Only,Kansas,Public Welfare,2233,0.769334923,40150.38245,89655804,KS,20
+State Only,Kansas,Health,1019,0.351075811,49554.85378,50496396,KS,20
+State Only,Kansas,Hospitals,7929,2.731776357,54038.36398,428470188,KS,20
+State Only,Kansas,Social Insurance Administration,96,0.033074856,42597.125,4089324,KS,20
+State Only,Kansas,Solid Waste Management,0,0,0,0,KS,20
+State Only,Kansas,Sewerage,0,0,0,0,KS,20
+State Only,Kansas,Parks and Recreation,517,0.178121879,37015.21857,19136868,KS,20
+State Only,Kansas,Housing and Community Development,0,0,0,0,KS,20
+State Only,Kansas,Natural Resources,798,0.274934737,49297.36842,39339300,KS,20
+State Only,Kansas,Water Supply,0,0,0,0,KS,20
+State Only,Kansas,Electric Power,0,0,0,0,KS,20
+State Only,Kansas,Gas Supply,0,0,0,0,KS,20
+State Only,Kansas,Transit,0,0,0,0,KS,20
+State Only,Kansas,Education Total,22168,7.637535413,58682.10844,1300864980,KS,20
+State Only,Kansas,Elementary & Secondary Education Total,0,0,0,0,KS,20
+State Only,Kansas,Elem & Sec Instructional Employees,0,0,0,0,KS,20
+State Only,Kansas,Elem & Sec Other Employees,0,0,0,0,KS,20
+State Only,Kansas,Higher Education Total,21533,7.418759025,58903.96638,1268379108,KS,20
+State Only,Kansas,Higher Ed Instructional Employees,7790,2.683886723,82774.19461,644810976,KS,20
+State Only,Kansas,Higher Ed Other Employees,13743,4.734872302,45373.50884,623568132,KS,20
+State Only,Kansas,Other Education,635,0.218776389,51158.85354,32485872,KS,20
+State Only,Kansas,Local Libraries,0,0,0,0,KS,20
+State Only,Kansas,State Liquor Stores,0,0,0,0,KS,20
+State Only,Kansas,All Other and Unallocable,2933,1.010505746,48087.50222,141040644,KS,20
+State Only,Kentucky,Total,83409,18.90238831,48824.11466,4072370580,KY,21
+State Only,Kentucky,Financial Administration,2576,0.583780555,46054.8587,118637316,KY,21
+State Only,Kentucky,Other Government Administration,815,0.184697652,57312.20613,46709448,KY,21
+State Only,Kentucky,Judicial and Legal,5154,1.168014355,42996.03958,221601588,KY,21
+State Only,Kentucky,Police Protection Total,2072,0.46956262,45998.50772,95308908,KY,21
+State Only,Kentucky,Police Officers Only,1049,0.237727408,45425.49094,47651340,KY,21
+State Only,Kentucky,Other Police Employees,1023,0.231835213,46586.08798,47657568,KY,21
+State Only,Kentucky,Fire Protection Total,0,0,0,0,KY,21
+State Only,Kentucky,Firefighters Only,0,0,0,0,KY,21
+State Only,Kentucky,Other Fire Employees,0,0,0,0,KY,21
+State Only,Kentucky,Corrections,4337,0.982863457,31469.61679,136483728,KY,21
+State Only,Kentucky,Highways,4449,1.00824522,39145.58867,174158724,KY,21
+State Only,Kentucky,Air Transportation,30,0.006798687,49108.4,1473252,KY,21
+State Only,Kentucky,Water Transport and Terminals,0,0,0,0,KY,21
+State Only,Kentucky,Public Welfare,7863,1.781935754,36937.81305,290442024,KY,21
+State Only,Kentucky,Health,3026,0.685760853,49073.02049,148494960,KY,21
+State Only,Kentucky,Hospitals,6135,1.390331407,53395.04156,327578580,KY,21
+State Only,Kentucky,Social Insurance Administration,1279,0.289850671,36471.44332,46646976,KY,21
+State Only,Kentucky,Solid Waste Management,0,0,0,0,KY,21
+State Only,Kentucky,Sewerage,0,0,0,0,KY,21
+State Only,Kentucky,Parks and Recreation,1061,0.240446882,29472.53157,31270356,KY,21
+State Only,Kentucky,Housing and Community Development,0,0,0,0,KY,21
+State Only,Kentucky,Natural Resources,2772,0.62819864,42841.25541,118755960,KY,21
+State Only,Kentucky,Water Supply,0,0,0,0,KY,21
+State Only,Kentucky,Electric Power,0,0,0,0,KY,21
+State Only,Kentucky,Gas Supply,0,0,0,0,KY,21
+State Only,Kentucky,Transit,0,0,0,0,KY,21
+State Only,Kentucky,Education Total,39117,8.864807437,56160.44022,2196827940,KY,21
+State Only,Kentucky,Elementary & Secondary Education Total,0,0,0,0,KY,21
+State Only,Kentucky,Elem & Sec Instructional Employees,0,0,0,0,KY,21
+State Only,Kentucky,Elem & Sec Other Employees,0,0,0,0,KY,21
+State Only,Kentucky,Higher Education Total,36929,8.368956563,56507.82713,2086777548,KY,21
+State Only,Kentucky,Higher Ed Instructional Employees,11994,2.718114896,84076.73337,1008416340,KY,21
+State Only,Kentucky,Higher Ed Other Employees,24935,5.650841666,43246.89023,1078361208,KY,21
+State Only,Kentucky,Other Education,2188,0.495850875,50297.25411,110050392,KY,21
+State Only,Kentucky,Local Libraries,0,0,0,0,KY,21
+State Only,Kentucky,State Liquor Stores,0,0,0,0,KY,21
+State Only,Kentucky,All Other and Unallocable,2723,0.617094119,43327.51377,117980820,KY,21
+State Only,Louisiana,Total,76207,16.3921626,51335.34274,3912112464,LA,22
+State Only,Louisiana,Financial Administration,1981,0.426114059,51708.18778,102433920,LA,22
+State Only,Louisiana,Other Government Administration,2321,0.499248224,56762.02154,131744652,LA,22
+State Only,Louisiana,Judicial and Legal,1702,0.366101024,54441.60282,92659608,LA,22
+State Only,Louisiana,Police Protection Total,1689,0.363304718,64549.85435,109024704,LA,22
+State Only,Louisiana,Police Officers Only,1133,0.243708849,72689.62401,82357344,LA,22
+State Only,Louisiana,Other Police Employees,556,0.119595869,47962.8777,26667360,LA,22
+State Only,Louisiana,Fire Protection Total,0,0,0,0,LA,22
+State Only,Louisiana,Firefighters Only,0,0,0,0,LA,22
+State Only,Louisiana,Other Fire Employees,0,0,0,0,LA,22
+State Only,Louisiana,Corrections,5895,1.268017354,48383.03308,285217980,LA,22
+State Only,Louisiana,Highways,4426,0.952034743,50396.01446,223052760,LA,22
+State Only,Louisiana,Air Transportation,0,0,0,0,LA,22
+State Only,Louisiana,Water Transport and Terminals,281,0.060443236,65453.08185,18392316,LA,22
+State Only,Louisiana,Public Welfare,5132,1.103895685,45762.52611,234853284,LA,22
+State Only,Louisiana,Health,3251,0.699291674,55858.44233,181595796,LA,22
+State Only,Louisiana,Hospitals,9808,2.109705549,45938.14478,450561324,LA,22
+State Only,Louisiana,Social Insurance Administration,1136,0.24435415,44548.09859,50606640,LA,22
+State Only,Louisiana,Solid Waste Management,0,0,0,0,LA,22
+State Only,Louisiana,Sewerage,0,0,0,0,LA,22
+State Only,Louisiana,Parks and Recreation,1022,0.219832695,38566.72016,39415188,LA,22
+State Only,Louisiana,Housing and Community Development,0,0,0,0,LA,22
+State Only,Louisiana,Natural Resources,4088,0.879330779,51919.71722,212247804,LA,22
+State Only,Louisiana,Water Supply,0,0,0,0,LA,22
+State Only,Louisiana,Electric Power,0,0,0,0,LA,22
+State Only,Louisiana,Gas Supply,0,0,0,0,LA,22
+State Only,Louisiana,Transit,0,0,0,0,LA,22
+State Only,Louisiana,Education Total,30919,6.650691871,53180.9021,1644300312,LA,22
+State Only,Louisiana,Elementary & Secondary Education Total,547,0.117659965,51988.58501,28437756,LA,22
+State Only,Louisiana,Elem & Sec Instructional Employees,466,0.100236826,50977.62232,23755572,LA,22
+State Only,Louisiana,Elem & Sec Other Employees,81,0.017423139,57804.74074,4682184,LA,22
+State Only,Louisiana,Higher Education Total,27734,5.965596829,53291.11819,1477975872,LA,22
+State Only,Louisiana,Higher Ed Instructional Employees,9350,2.011189527,77117.35187,721047240,LA,22
+State Only,Louisiana,Higher Ed Other Employees,18384,3.954407301,41173.22846,756928632,LA,22
+State Only,Louisiana,Other Education,2638,0.567435077,52269.40258,137886684,LA,22
+State Only,Louisiana,Local Libraries,0,0,0,0,LA,22
+State Only,Louisiana,State Liquor Stores,0,0,0,0,LA,22
+State Only,Louisiana,All Other and Unallocable,2556,0.549796838,53210.55399,136006176,LA,22
+State Only,Maine,Total,20990,15.77891774,50190.53969,1053499428,ME,23
+State Only,Maine,Financial Administration,1290,0.969738156,46663.09767,60195396,ME,23
+State Only,Maine,Other Government Administration,410,0.308211352,55628.80976,22807812,ME,23
+State Only,Maine,Judicial and Legal,729,0.548014818,57883.29218,42196920,ME,23
+State Only,Maine,Police Protection Total,518,0.389398732,62246.15444,32243508,ME,23
+State Only,Maine,Police Officers Only,306,0.230030911,71760.39216,21958680,ME,23
+State Only,Maine,Other Police Employees,212,0.159367821,48513.33962,10284828,ME,23
+State Only,Maine,Fire Protection Total,0,0,0,0,ME,23
+State Only,Maine,Firefighters Only,0,0,0,0,ME,23
+State Only,Maine,Other Fire Employees,0,0,0,0,ME,23
+State Only,Maine,Corrections,1179,0.88629557,45174.29008,53260488,ME,23
+State Only,Maine,Highways,2044,1.536546349,49443.92759,101063388,ME,23
+State Only,Maine,Air Transportation,0,0,0,0,ME,23
+State Only,Maine,Water Transport and Terminals,83,0.062394005,44611.22892,3702732,ME,23
+State Only,Maine,Public Welfare,2824,2.122899652,43428.68414,122642604,ME,23
+State Only,Maine,Health,1000,0.751735004,52048.92,52048920,ME,23
+State Only,Maine,Hospitals,455,0.342039427,49606.23297,22570836,ME,23
+State Only,Maine,Social Insurance Administration,396,0.297687062,43656.06061,17287800,ME,23
+State Only,Maine,Solid Waste Management,0,0,0,0,ME,23
+State Only,Maine,Sewerage,0,0,0,0,ME,23
+State Only,Maine,Parks and Recreation,173,0.130050156,42732.62428,7392744,ME,23
+State Only,Maine,Housing and Community Development,0,0,0,0,ME,23
+State Only,Maine,Natural Resources,1017,0.764514499,53568.16519,54478824,ME,23
+State Only,Maine,Water Supply,0,0,0,0,ME,23
+State Only,Maine,Electric Power,0,0,0,0,ME,23
+State Only,Maine,Gas Supply,0,0,0,0,ME,23
+State Only,Maine,Transit,0,0,0,0,ME,23
+State Only,Maine,Education Total,7566,5.687627043,51514.50119,389758716,ME,23
+State Only,Maine,Elementary & Secondary Education Total,37,0.027814195,35870.59459,1327212,ME,23
+State Only,Maine,Elem & Sec Instructional Employees,22,0.01653817,42700.36364,939408,ME,23
+State Only,Maine,Elem & Sec Other Employees,15,0.011276025,25853.6,387804,ME,23
+State Only,Maine,Higher Education Total,7298,5.486162062,51665.25185,377053008,ME,23
+State Only,Maine,Higher Ed Instructional Employees,2376,1.78612237,69485.82323,165098316,ME,23
+State Only,Maine,Higher Ed Other Employees,4922,3.700039692,43062.71678,211954692,ME,23
+State Only,Maine,Other Education,231,0.173650786,49257.55844,11378496,ME,23
+State Only,Maine,Local Libraries,0,0,0,0,ME,23
+State Only,Maine,State Liquor Stores,12,0.00902082,43088,517056,ME,23
+State Only,Maine,All Other and Unallocable,1294,0.972745096,55124.949,71331684,ME,23
+State Only,Maryland,Total,86771,14.52150219,59491.07863,5162100384,MD,24
+State Only,Maryland,Financial Administration,3143,0.525994645,54793.8021,172216920,MD,24
+State Only,Maryland,Other Government Administration,1546,0.258729787,67090.68047,103722192,MD,24
+State Only,Maryland,Judicial and Legal,5186,0.867899533,65903.92827,341777772,MD,24
+State Only,Maryland,Police Protection Total,2272,0.380229028,66963.72359,152141580,MD,24
+State Only,Maryland,Police Officers Only,1492,0.249692654,73977.19303,110373972,MD,24
+State Only,Maryland,Other Police Employees,780,0.130536374,53548.21538,41767608,MD,24
+State Only,Maryland,Fire Protection Total,0,0,0,0,MD,24
+State Only,Maryland,Firefighters Only,0,0,0,0,MD,24
+State Only,Maryland,Other Fire Employees,0,0,0,0,MD,24
+State Only,Maryland,Corrections,12559,2.101802975,54275.57863,681646992,MD,24
+State Only,Maryland,Highways,4528,0.757780386,59988.89046,271629696,MD,24
+State Only,Maryland,Air Transportation,469,0.078489179,65699.64179,30813132,MD,24
+State Only,Maryland,Water Transport and Terminals,270,0.045185668,73740.84444,19910028,MD,24
+State Only,Maryland,Public Welfare,6654,1.113575682,49312.2092,328123440,MD,24
+State Only,Maryland,Health,6039,1.010652772,54724.90214,330483684,MD,24
+State Only,Maryland,Hospitals,3666,0.613520958,53983.89853,197904972,MD,24
+State Only,Maryland,Social Insurance Administration,1036,0.173379081,52684.80695,54581460,MD,24
+State Only,Maryland,Solid Waste Management,0,0,0,0,MD,24
+State Only,Maryland,Sewerage,0,0,0,0,MD,24
+State Only,Maryland,Parks and Recreation,418,0.069954108,51842.64115,21670224,MD,24
+State Only,Maryland,Housing and Community Development,0,0,0,0,MD,24
+State Only,Maryland,Natural Resources,2025,0.338892509,62336.80593,126232032,MD,24
+State Only,Maryland,Water Supply,0,0,0,0,MD,24
+State Only,Maryland,Electric Power,0,0,0,0,MD,24
+State Only,Maryland,Gas Supply,0,0,0,0,MD,24
+State Only,Maryland,Transit,715,0.119658343,69615.50769,49775088,MD,24
+State Only,Maryland,Education Total,29865,4.998036934,63887.84289,1908010428,MD,24
+State Only,Maryland,Elementary & Secondary Education Total,0,0,0,0,MD,24
+State Only,Maryland,Elem & Sec Instructional Employees,0,0,0,0,MD,24
+State Only,Maryland,Elem & Sec Other Employees,0,0,0,0,MD,24
+State Only,Maryland,Higher Education Total,27829,4.657303527,64172.25412,1785849660,MD,24
+State Only,Maryland,Higher Ed Instructional Employees,10626,1.778307064,86461.64879,918741480,MD,24
+State Only,Maryland,Higher Ed Other Employees,17203,2.878996463,50404.4748,867108180,MD,24
+State Only,Maryland,Other Education,2036,0.340733407,60000.37721,122160768,MD,24
+State Only,Maryland,Local Libraries,0,0,0,0,MD,24
+State Only,Maryland,State Liquor Stores,0,0,0,0,MD,24
+State Only,Maryland,All Other and Unallocable,6380,1.067720597,58222.68715,371460744,MD,24
+State Only,Massachusetts,Total,98985,14.65332095,65975.48077,6530582964,MA,25
+State Only,Massachusetts,Financial Administration,3929,0.58163255,68803.41257,270328608,MA,25
+State Only,Massachusetts,Other Government Administration,2011,0.297699939,59987.57036,120635004,MA,25
+State Only,Massachusetts,Judicial and Legal,9141,1.353194997,69536.4529,635632716,MA,25
+State Only,Massachusetts,Police Protection Total,2926,0.43315267,106337.836,311144508,MA,25
+State Only,Massachusetts,Police Officers Only,2127,0.314872088,118765.7546,252614760,MA,25
+State Only,Massachusetts,Other Police Employees,799,0.118280582,73253.75219,58529748,MA,25
+State Only,Massachusetts,Fire Protection Total,0,0,0,0,MA,25
+State Only,Massachusetts,Firefighters Only,0,0,0,0,MA,25
+State Only,Massachusetts,Other Fire Employees,0,0,0,0,MA,25
+State Only,Massachusetts,Corrections,12295,1.820099823,62739.09101,771377124,MA,25
+State Only,Massachusetts,Highways,3138,0.464536254,70228.86424,220378176,MA,25
+State Only,Massachusetts,Air Transportation,1012,0.149812202,83586.10672,84589140,MA,25
+State Only,Massachusetts,Water Transport and Terminals,160,0.023685724,83225.7,13316112,MA,25
+State Only,Massachusetts,Public Welfare,6917,1.023963439,66088.16192,457131816,MA,25
+State Only,Massachusetts,Health,7258,1.074443637,59426.27005,431315868,MA,25
+State Only,Massachusetts,Hospitals,5302,0.784885666,54642.93248,289716828,MA,25
+State Only,Massachusetts,Social Insurance Administration,1555,0.230195626,61374.51318,95437368,MA,25
+State Only,Massachusetts,Solid Waste Management,0,0,0,0,MA,25
+State Only,Massachusetts,Sewerage,829,0.122721655,80850.80338,67025316,MA,25
+State Only,Massachusetts,Parks and Recreation,966,0.143002556,59154.77019,57143508,MA,25
+State Only,Massachusetts,Housing and Community Development,0,0,0,0,MA,25
+State Only,Massachusetts,Natural Resources,1147,0.169797031,77064.44987,88392924,MA,25
+State Only,Massachusetts,Water Supply,491,0.072685564,72447.95927,35571948,MA,25
+State Only,Massachusetts,Electric Power,0,0,0,0,MA,25
+State Only,Massachusetts,Gas Supply,0,0,0,0,MA,25
+State Only,Massachusetts,Transit,0,0,0,0,MA,25
+State Only,Massachusetts,Education Total,35568,5.265336358,63399.38799,2254989432,MA,25
+State Only,Massachusetts,Elementary & Secondary Education Total,2321,0.343591028,55202.43516,128124852,MA,25
+State Only,Massachusetts,Elem & Sec Instructional Employees,1812,0.26824082,56706.74834,102752628,MA,25
+State Only,Massachusetts,Elem & Sec Other Employees,509,0.075350208,49847.19843,25372224,MA,25
+State Only,Massachusetts,Higher Education Total,32120,4.754909014,63578.65928,2042146536,MA,25
+State Only,Massachusetts,Higher Ed Instructional Employees,11279,1.669695479,75871.51982,855754872,MA,25
+State Only,Massachusetts,Higher Ed Other Employees,20841,3.085213536,56925.85116,1186391664,MA,25
+State Only,Massachusetts,Other Education,1127,0.166836316,75171.29015,84718044,MA,25
+State Only,Massachusetts,Local Libraries,0,0,0,0,MA,25
+State Only,Massachusetts,State Liquor Stores,0,0,0,0,MA,25
+State Only,Massachusetts,All Other and Unallocable,4340,0.642475253,75220.40737,326456568,MA,25
+State Only,Michigan,Total,142057,14.32559665,63364.36118,9001351056,MI,26
+State Only,Michigan,Financial Administration,4220,0.425561696,67080.94976,283081608,MI,26
+State Only,Michigan,Other Government Administration,1481,0.14934997,67181.30722,99495516,MI,26
+State Only,Michigan,Judicial and Legal,1474,0.148644062,82671.44369,121857708,MI,26
+State Only,Michigan,Police Protection Total,2617,0.263908758,63171.09515,165318756,MI,26
+State Only,Michigan,Police Officers Only,1927,0.194326395,66911.03477,128937564,MI,26
+State Only,Michigan,Other Police Employees,690,0.069582363,52726.36522,36381192,MI,26
+State Only,Michigan,Fire Protection Total,0,0,0,0,MI,26
+State Only,Michigan,Firefighters Only,0,0,0,0,MI,26
+State Only,Michigan,Other Fire Employees,0,0,0,0,MI,26
+State Only,Michigan,Corrections,12537,1.264281276,60008.73223,752329476,MI,26
+State Only,Michigan,Highways,2664,0.268648426,63017.31532,167878128,MI,26
+State Only,Michigan,Air Transportation,0,0,0,0,MI,26
+State Only,Michigan,Water Transport and Terminals,0,0,0,0,MI,26
+State Only,Michigan,Public Welfare,11797,1.189656713,55113.85471,650178144,MI,26
+State Only,Michigan,Health,5285,0.53296056,58628.17181,309849888,MI,26
+State Only,Michigan,Hospitals,16090,1.622580021,64986.80845,1045637748,MI,26
+State Only,Michigan,Social Insurance Administration,814,0.082087019,60174.13268,48981744,MI,26
+State Only,Michigan,Solid Waste Management,0,0,0,0,MI,26
+State Only,Michigan,Sewerage,0,0,0,0,MI,26
+State Only,Michigan,Parks and Recreation,209,0.021076397,59964.86124,12532656,MI,26
+State Only,Michigan,Housing and Community Development,305,0.030757421,66021.63934,20136600,MI,26
+State Only,Michigan,Natural Resources,3343,0.337121505,58699.30841,196231788,MI,26
+State Only,Michigan,Water Supply,0,0,0,0,MI,26
+State Only,Michigan,Electric Power,0,0,0,0,MI,26
+State Only,Michigan,Gas Supply,0,0,0,0,MI,26
+State Only,Michigan,Transit,0,0,0,0,MI,26
+State Only,Michigan,Education Total,75033,7.566628138,65035.12566,4879780584,MI,26
+State Only,Michigan,Elementary & Secondary Education Total,0,0,0,0,MI,26
+State Only,Michigan,Elem & Sec Instructional Employees,0,0,0,0,MI,26
+State Only,Michigan,Elem & Sec Other Employees,0,0,0,0,MI,26
+State Only,Michigan,Higher Education Total,74408,7.503600635,65009.00269,4837189872,MI,26
+State Only,Michigan,Higher Ed Instructional Employees,24303,2.450811824,94396.76238,2294124516,MI,26
+State Only,Michigan,Higher Ed Other Employees,50105,5.052788811,50754.7222,2543065356,MI,26
+State Only,Michigan,Other Education,625,0.063027502,68145.1392,42590712,MI,26
+State Only,Michigan,Local Libraries,0,0,0,0,MI,26
+State Only,Michigan,State Liquor Stores,0,0,0,0,MI,26
+State Only,Michigan,All Other and Unallocable,4188,0.422334688,59231.30659,248060712,MI,26
+State Only,Minnesota,Total,82223,15.06709119,63015.41452,5181316428,MN,27
+State Only,Minnesota,Financial Administration,4827,0.88453169,70074.80423,338251080,MN,27
+State Only,Minnesota,Other Government Administration,1049,0.19222576,68245.3613,71589384,MN,27
+State Only,Minnesota,Judicial and Legal,3735,0.684426323,62935.77189,235065108,MN,27
+State Only,Minnesota,Police Protection Total,921,0.168770186,59071.51792,54404868,MN,27
+State Only,Minnesota,Police Officers Only,509,0.093272557,69350.59332,35299452,MN,27
+State Only,Minnesota,Other Police Employees,412,0.075497629,46372.36893,19105416,MN,27
+State Only,Minnesota,Fire Protection Total,0,0,0,0,MN,27
+State Only,Minnesota,Firefighters Only,0,0,0,0,MN,27
+State Only,Minnesota,Other Fire Employees,0,0,0,0,MN,27
+State Only,Minnesota,Corrections,4179,0.765787846,54871.34817,229307364,MN,27
+State Only,Minnesota,Highways,4555,0.834688595,59474.77936,270907620,MN,27
+State Only,Minnesota,Air Transportation,0,0,0,0,MN,27
+State Only,Minnesota,Water Transport and Terminals,0,0,0,0,MN,27
+State Only,Minnesota,Public Welfare,3096,0.567331699,44159.43411,136717608,MN,27
+State Only,Minnesota,Health,3348,0.613509861,61923.18996,207318840,MN,27
+State Only,Minnesota,Hospitals,4534,0.830840415,54545.45743,247309104,MN,27
+State Only,Minnesota,Social Insurance Administration,1036,0.189843553,55378.13514,57371748,MN,27
+State Only,Minnesota,Solid Waste Management,0,0,0,0,MN,27
+State Only,Minnesota,Sewerage,628,0.115078911,78031.79618,49003968,MN,27
+State Only,Minnesota,Parks and Recreation,585,0.107199304,56224.92308,32891580,MN,27
+State Only,Minnesota,Housing and Community Development,0,0,0,0,MN,27
+State Only,Minnesota,Natural Resources,3096,0.567331699,58198.6124,180182904,MN,27
+State Only,Minnesota,Water Supply,0,0,0,0,MN,27
+State Only,Minnesota,Electric Power,0,0,0,0,MN,27
+State Only,Minnesota,Gas Supply,0,0,0,0,MN,27
+State Only,Minnesota,Transit,2824,0.517488604,62303.15864,175944120,MN,27
+State Only,Minnesota,Education Total,40637,7.446595048,66436.80774,2699792556,MN,27
+State Only,Minnesota,Elementary & Secondary Education Total,0,0,0,0,MN,27
+State Only,Minnesota,Elem & Sec Instructional Employees,0,0,0,0,MN,27
+State Only,Minnesota,Elem & Sec Other Employees,0,0,0,0,MN,27
+State Only,Minnesota,Higher Education Total,36689,6.723137183,66743.57742,2448755112,MN,27
+State Only,Minnesota,Higher Ed Instructional Employees,14930,2.735872827,75634.56852,1129224108,MN,27
+State Only,Minnesota,Higher Ed Other Employees,21759,3.987264356,60642.99848,1319531004,MN,27
+State Only,Minnesota,Other Education,3948,0.723457865,63585.97872,251037444,MN,27
+State Only,Minnesota,Local Libraries,0,0,0,0,MN,27
+State Only,Minnesota,State Liquor Stores,0,0,0,0,MN,27
+State Only,Minnesota,All Other and Unallocable,3173,0.581441693,61537.52789,195258576,MN,27
+State Only,Mississippi,Total,56884,19.00286727,44568.35419,2535226260,MS,28
+State Only,Mississippi,Financial Administration,1457,0.486730497,44855.78586,65354880,MS,28
+State Only,Mississippi,Other Government Administration,515,0.172042695,49355.69709,25418184,MS,28
+State Only,Mississippi,Judicial and Legal,740,0.247206979,75197.56216,55646196,MS,28
+State Only,Mississippi,Police Protection Total,1202,0.401544309,40337.14143,48485244,MS,28
+State Only,Mississippi,Police Officers Only,632,0.211128122,44366.77215,28039800,MS,28
+State Only,Mississippi,Other Police Employees,570,0.190416186,35869.2,20445444,MS,28
+State Only,Mississippi,Fire Protection Total,0,0,0,0,MS,28
+State Only,Mississippi,Firefighters Only,0,0,0,0,MS,28
+State Only,Mississippi,Other Fire Employees,0,0,0,0,MS,28
+State Only,Mississippi,Corrections,3244,1.083701945,30669.4291,99491628,MS,28
+State Only,Mississippi,Highways,3295,1.100739182,36178.16813,119207064,MS,28
+State Only,Mississippi,Air Transportation,0,0,0,0,MS,28
+State Only,Mississippi,Water Transport and Terminals,41,0.013696603,68232.58537,2797536,MS,28
+State Only,Mississippi,Public Welfare,3049,1.018559565,41141.03772,125439024,MS,28
+State Only,Mississippi,Health,3239,1.082031627,40012.8941,129601764,MS,28
+State Only,Mississippi,Hospitals,11357,3.793958996,41566.99304,472076340,MS,28
+State Only,Mississippi,Social Insurance Administration,785,0.262239836,37863.05732,29722500,MS,28
+State Only,Mississippi,Solid Waste Management,0,0,0,0,MS,28
+State Only,Mississippi,Sewerage,0,0,0,0,MS,28
+State Only,Mississippi,Parks and Recreation,347,0.115920029,30623.72334,10626432,MS,28
+State Only,Mississippi,Housing and Community Development,0,0,0,0,MS,28
+State Only,Mississippi,Natural Resources,3033,1.013214549,38039.71513,115374456,MS,28
+State Only,Mississippi,Water Supply,55,0.018373492,32875.41818,1808148,MS,28
+State Only,Mississippi,Electric Power,0,0,0,0,MS,28
+State Only,Mississippi,Gas Supply,0,0,0,0,MS,28
+State Only,Mississippi,Transit,0,0,0,0,MS,28
+State Only,Mississippi,Education Total,21102,7.049407655,52163.85158,1100761596,MS,28
+State Only,Mississippi,Elementary & Secondary Education Total,0,0,0,0,MS,28
+State Only,Mississippi,Elem & Sec Instructional Employees,0,0,0,0,MS,28
+State Only,Mississippi,Elem & Sec Other Employees,0,0,0,0,MS,28
+State Only,Mississippi,Higher Education Total,19644,6.562343095,53132.51374,1043735100,MS,28
+State Only,Mississippi,Higher Ed Instructional Employees,6429,2.147694143,63223.45124,406463568,MS,28
+State Only,Mississippi,Higher Ed Other Employees,13215,4.414648951,48223.34711,637271532,MS,28
+State Only,Mississippi,Other Education,1458,0.487064561,39112.82305,57026496,MS,28
+State Only,Mississippi,Local Libraries,0,0,0,0,MS,28
+State Only,Mississippi,State Liquor Stores,87,0.029063523,29950.75862,2605716,MS,28
+State Only,Mississippi,All Other and Unallocable,3336,1.114435785,39211.4964,130809552,MS,28
+State Only,Missouri,Total,88133,14.53422072,43667.87419,3848580756,MO,29
+State Only,Missouri,Financial Administration,2899,0.478080922,43719.713,126743448,MO,29
+State Only,Missouri,Other Government Administration,919,0.151554456,43070.36344,39581664,MO,29
+State Only,Missouri,Judicial and Legal,4241,0.699393304,45971.03513,194963160,MO,29
+State Only,Missouri,Police Protection Total,2495,0.411456329,49434.04569,123337944,MO,29
+State Only,Missouri,Police Officers Only,1399,0.230712387,58401.84703,81704184,MO,29
+State Only,Missouri,Other Police Employees,1096,0.180743943,37987.0073,41633760,MO,29
+State Only,Missouri,Fire Protection Total,0,0,0,0,MO,29
+State Only,Missouri,Firefighters Only,0,0,0,0,MO,29
+State Only,Missouri,Other Fire Employees,0,0,0,0,MO,29
+State Only,Missouri,Corrections,12289,2.026607949,32395.80405,398112036,MO,29
+State Only,Missouri,Highways,5541,0.913779367,39432,218492712,MO,29
+State Only,Missouri,Air Transportation,0,0,0,0,MO,29
+State Only,Missouri,Water Transport and Terminals,0,0,0,0,MO,29
+State Only,Missouri,Public Welfare,6956,1.147130352,34448.25129,239622036,MO,29
+State Only,Missouri,Health,2848,0.469670391,41860.55478,119218860,MO,29
+State Only,Missouri,Hospitals,10604,1.748730628,39435.851,418177764,MO,29
+State Only,Missouri,Social Insurance Administration,550,0.090701796,35821.65818,19701912,MO,29
+State Only,Missouri,Solid Waste Management,0,0,0,0,MO,29
+State Only,Missouri,Sewerage,0,0,0,0,MO,29
+State Only,Missouri,Parks and Recreation,504,0.083115828,36257.80952,18273936,MO,29
+State Only,Missouri,Housing and Community Development,0,0,0,0,MO,29
+State Only,Missouri,Natural Resources,2195,0.361982623,41187.27472,90406068,MO,29
+State Only,Missouri,Water Supply,0,0,0,0,MO,29
+State Only,Missouri,Electric Power,0,0,0,0,MO,29
+State Only,Missouri,Gas Supply,0,0,0,0,MO,29
+State Only,Missouri,Transit,0,0,0,0,MO,29
+State Only,Missouri,Education Total,32243,5.317269111,52136.99991,1681053288,MO,29
+State Only,Missouri,Elementary & Secondary Education Total,0,0,0,0,MO,29
+State Only,Missouri,Elem & Sec Instructional Employees,0,0,0,0,MO,29
+State Only,Missouri,Elem & Sec Other Employees,0,0,0,0,MO,29
+State Only,Missouri,Higher Education Total,30659,5.056047938,52765.69438,1617743424,MO,29
+State Only,Missouri,Higher Ed Instructional Employees,11389,1.878186828,71908.85943,818970000,MO,29
+State Only,Missouri,Higher Ed Other Employees,19270,3.17786111,41451.65667,798773424,MO,29
+State Only,Missouri,Other Education,1584,0.261221173,39968.34848,63309864,MO,29
+State Only,Missouri,Local Libraries,0,0,0,0,MO,29
+State Only,Missouri,State Liquor Stores,0,0,0,0,MO,29
+State Only,Missouri,All Other and Unallocable,3849,0.63474766,41802.00779,160895928,MO,29
+State Only,Montana,Total,20721,20.25014366,49137.3453,1018174932,MT,30
+State Only,Montana,Financial Administration,1041,1.017344701,47370.27089,49312452,MT,30
+State Only,Montana,Other Government Administration,394,0.38504689,57043.1269,22474992,MT,30
+State Only,Montana,Judicial and Legal,728,0.711457197,55899.18132,40694604,MT,30
+State Only,Montana,Police Protection Total,487,0.475933592,55917.31417,27231732,MT,30
+State Only,Montana,Police Officers Only,232,0.226728118,59763.41379,13865112,MT,30
+State Only,Montana,Other Police Employees,255,0.249205474,52418.11765,13366620,MT,30
+State Only,Montana,Fire Protection Total,0,0,0,0,MT,30
+State Only,Montana,Firefighters Only,0,0,0,0,MT,30
+State Only,Montana,Other Fire Employees,0,0,0,0,MT,30
+State Only,Montana,Corrections,1238,1.209868146,43731.14055,54139152,MT,30
+State Only,Montana,Highways,2121,2.07280318,53988.70721,114510048,MT,30
+State Only,Montana,Air Transportation,0,0,0,0,MT,30
+State Only,Montana,Water Transport and Terminals,0,0,0,0,MT,30
+State Only,Montana,Public Welfare,1769,1.728801898,43946.1368,77740716,MT,30
+State Only,Montana,Health,880,0.860003205,49301.91818,43385688,MT,30
+State Only,Montana,Hospitals,650,0.63522964,42539.42769,27650628,MT,30
+State Only,Montana,Social Insurance Administration,699,0.683116183,52105.25322,36421572,MT,30
+State Only,Montana,Solid Waste Management,0,0,0,0,MT,30
+State Only,Montana,Sewerage,0,0,0,0,MT,30
+State Only,Montana,Parks and Recreation,73,0.071341175,45863.0137,3348000,MT,30
+State Only,Montana,Housing and Community Development,0,0,0,0,MT,30
+State Only,Montana,Natural Resources,1540,1.50500561,48969.42857,75412920,MT,30
+State Only,Montana,Water Supply,0,0,0,0,MT,30
+State Only,Montana,Electric Power,0,0,0,0,MT,30
+State Only,Montana,Gas Supply,0,0,0,0,MT,30
+State Only,Montana,Transit,0,0,0,0,MT,30
+State Only,Montana,Education Total,7904,7.724392427,48080.41397,380027592,MT,30
+State Only,Montana,Elementary & Secondary Education Total,0,0,0,0,MT,30
+State Only,Montana,Elem & Sec Instructional Employees,0,0,0,0,MT,30
+State Only,Montana,Elem & Sec Other Employees,0,0,0,0,MT,30
+State Only,Montana,Higher Education Total,7525,7.354004683,47970.14113,360975312,MT,30
+State Only,Montana,Higher Ed Instructional Employees,2025,1.978984649,69240.31407,140211636,MT,30
+State Only,Montana,Higher Ed Other Employees,5500,5.375020034,40138.85018,220763676,MT,30
+State Only,Montana,Other Education,379,0.370387744,50269.86807,19052280,MT,30
+State Only,Montana,Local Libraries,0,0,0,0,MT,30
+State Only,Montana,State Liquor Stores,30,0.029318291,45346.8,1360404,MT,30
+State Only,Montana,All Other and Unallocable,1167,1.140481524,55239.44473,64464432,MT,30
+State Only,Nebraska,Total,32101,17.04797714,46340.77206,1487585124,NE,31
+State Only,Nebraska,Financial Administration,789,0.419016665,47346.0076,37356000,NE,31
+State Only,Nebraska,Other Government Administration,312,0.165694803,44729.46154,13955592,NE,31
+State Only,Nebraska,Judicial and Legal,748,0.397242669,58359.28877,43652748,NE,31
+State Only,Nebraska,Police Protection Total,842,0.447163539,59174.90736,49825272,NE,31
+State Only,Nebraska,Police Officers Only,528,0.28040659,69494.04545,36692856,NE,31
+State Only,Nebraska,Other Police Employees,314,0.166756949,41822.98089,13132416,NE,31
+State Only,Nebraska,Fire Protection Total,0,0,0,0,NE,31
+State Only,Nebraska,Firefighters Only,0,0,0,0,NE,31
+State Only,Nebraska,Other Fire Employees,0,0,0,0,NE,31
+State Only,Nebraska,Corrections,2930,1.556044143,42484.16928,124478616,NE,31
+State Only,Nebraska,Highways,2054,1.090824119,46606.57449,95729904,NE,31
+State Only,Nebraska,Air Transportation,21,0.011152535,53866.85714,1131204,NE,31
+State Only,Nebraska,Water Transport and Terminals,0,0,0,0,NE,31
+State Only,Nebraska,Public Welfare,2447,1.299535842,36236.30732,88670244,NE,31
+State Only,Nebraska,Health,644,0.342011068,50157.68944,32301552,NE,31
+State Only,Nebraska,Hospitals,3772,2.003207681,44721.91941,168691080,NE,31
+State Only,Nebraska,Social Insurance Administration,213,0.113118567,48431.32394,10315872,NE,31
+State Only,Nebraska,Solid Waste Management,0,0,0,0,NE,31
+State Only,Nebraska,Sewerage,0,0,0,0,NE,31
+State Only,Nebraska,Parks and Recreation,281,0.149231537,36535.51601,10266480,NE,31
+State Only,Nebraska,Housing and Community Development,0,0,0,0,NE,31
+State Only,Nebraska,Natural Resources,2161,1.147648939,41283.68718,89214048,NE,31
+State Only,Nebraska,Water Supply,0,0,0,0,NE,31
+State Only,Nebraska,Electric Power,0,0,0,0,NE,31
+State Only,Nebraska,Gas Supply,0,0,0,0,NE,31
+State Only,Nebraska,Transit,0,0,0,0,NE,31
+State Only,Nebraska,Education Total,13034,6.922006607,48664.35016,634291140,NE,31
+State Only,Nebraska,Elementary & Secondary Education Total,0,0,0,0,NE,31
+State Only,Nebraska,Elem & Sec Instructional Employees,0,0,0,0,NE,31
+State Only,Nebraska,Elem & Sec Other Employees,0,0,0,0,NE,31
+State Only,Nebraska,Higher Education Total,12495,6.635758213,48520.99688,606269856,NE,31
+State Only,Nebraska,Higher Ed Instructional Employees,3332,1.769535523,78698.62545,262223820,NE,31
+State Only,Nebraska,Higher Ed Other Employees,9163,4.86622269,37547.31376,344046036,NE,31
+State Only,Nebraska,Other Education,539,0.286248394,51987.53989,28021284,NE,31
+State Only,Nebraska,Local Libraries,0,0,0,0,NE,31
+State Only,Nebraska,State Liquor Stores,0,0,0,0,NE,31
+State Only,Nebraska,All Other and Unallocable,1853,0.984078429,47331.55532,87705372,NE,31
+State Only,Nevada,Total,27236,9.595949097,57522.33661,1566678360,NV,32
+State Only,Nevada,Financial Administration,1391,0.490085372,44888.51474,62439924,NV,32
+State Only,Nevada,Other Government Administration,957,0.337175917,55422.74608,53039568,NV,32
+State Only,Nevada,Judicial and Legal,743,0.261778168,80819.49933,60048888,NV,32
+State Only,Nevada,Police Protection Total,842,0.296658435,72719.60095,61229904,NV,32
+State Only,Nevada,Police Officers Only,484,0.170525751,87895.71074,42541524,NV,32
+State Only,Nevada,Other Police Employees,358,0.126132684,52202.17877,18688380,NV,32
+State Only,Nevada,Fire Protection Total,0,0,0,0,NV,32
+State Only,Nevada,Firefighters Only,0,0,0,0,NV,32
+State Only,Nevada,Other Fire Employees,0,0,0,0,NV,32
+State Only,Nevada,Corrections,3578,1.260622186,51342.24483,183702552,NV,32
+State Only,Nevada,Highways,1726,0.608114559,51665.95829,89175444,NV,32
+State Only,Nevada,Air Transportation,0,0,0,0,NV,32
+State Only,Nevada,Water Transport and Terminals,0,0,0,0,NV,32
+State Only,Nevada,Public Welfare,2068,0.728610028,43020.74855,88966908,NV,32
+State Only,Nevada,Health,1357,0.47810629,52845.2056,71710944,NV,32
+State Only,Nevada,Hospitals,1320,0.465070231,54953.51818,72538644,NV,32
+State Only,Nevada,Social Insurance Administration,560,0.197302522,42639.36429,23878044,NV,32
+State Only,Nevada,Solid Waste Management,0,0,0,0,NV,32
+State Only,Nevada,Sewerage,0,0,0,0,NV,32
+State Only,Nevada,Parks and Recreation,171,0.060247734,45693.05263,7813512,NV,32
+State Only,Nevada,Housing and Community Development,0,0,0,0,NV,32
+State Only,Nevada,Natural Resources,894,0.314979384,54990.57718,49161576,NV,32
+State Only,Nevada,Water Supply,16,0.005637215,78814.5,1261032,NV,32
+State Only,Nevada,Electric Power,16,0.005637215,78814.5,1261032,NV,32
+State Only,Nevada,Gas Supply,0,0,0,0,NV,32
+State Only,Nevada,Transit,0,0,0,0,NV,32
+State Only,Nevada,Education Total,9503,3.348153336,65339.98864,620925912,NV,32
+State Only,Nevada,Elementary & Secondary Education Total,0,0,0,0,NV,32
+State Only,Nevada,Elem & Sec Instructional Employees,0,0,0,0,NV,32
+State Only,Nevada,Elem & Sec Other Employees,0,0,0,0,NV,32
+State Only,Nevada,Higher Education Total,9363,3.298827706,65439.0157,612705504,NV,32
+State Only,Nevada,Higher Ed Instructional Employees,3199,1.127090658,83929.26415,268489716,NV,32
+State Only,Nevada,Higher Ed Other Employees,6164,2.171737048,55842.92472,344215788,NV,32
+State Only,Nevada,Other Education,140,0.049325631,58717.2,8220408,NV,32
+State Only,Nevada,Local Libraries,0,0,0,0,NV,32
+State Only,Nevada,State Liquor Stores,0,0,0,0,NV,32
+State Only,Nevada,All Other and Unallocable,2094,0.737770503,57079.50143,119524476,NV,32
+State Only,New Hampshire,Total,18698,14.07986169,55667.14579,1040864292,NH,33
+State Only,New Hampshire,Financial Administration,770,0.579821024,55883.95325,43030644,NH,33
+State Only,New Hampshire,Other Government Administration,414,0.311747927,50656.4058,20971752,NH,33
+State Only,New Hampshire,Judicial and Legal,764,0.575302938,59970.14136,45817188,NH,33
+State Only,New Hampshire,Police Protection Total,505,0.38027223,63116.45941,31873812,NH,33
+State Only,New Hampshire,Police Officers Only,322,0.24247061,72145.63975,23230896,NH,33
+State Only,New Hampshire,Other Police Employees,183,0.13780162,47229.04918,8642916,NH,33
+State Only,New Hampshire,Fire Protection Total,0,0,0,0,NH,33
+State Only,New Hampshire,Firefighters Only,0,0,0,0,NH,33
+State Only,New Hampshire,Other Fire Employees,0,0,0,0,NH,33
+State Only,New Hampshire,Corrections,1071,0.806478333,56961.70308,61005984,NH,33
+State Only,New Hampshire,Highways,1596,1.201810849,51870.48872,82785300,NH,33
+State Only,New Hampshire,Air Transportation,42,0.031626601,46516,1953672,NH,33
+State Only,New Hampshire,Water Transport and Terminals,14,0.0105422,51096.85714,715356,NH,33
+State Only,New Hampshire,Public Welfare,1884,1.418678972,48618.36943,91597008,NH,33
+State Only,New Hampshire,Health,789,0.594128296,56946.85932,44931072,NH,33
+State Only,New Hampshire,Hospitals,571,0.429971175,48185.16988,27513732,NH,33
+State Only,New Hampshire,Social Insurance Administration,294,0.221386209,44795.83673,13169976,NH,33
+State Only,New Hampshire,Solid Waste Management,0,0,0,0,NH,33
+State Only,New Hampshire,Sewerage,0,0,0,0,NH,33
+State Only,New Hampshire,Parks and Recreation,288,0.216868123,35266.16667,10156656,NH,33
+State Only,New Hampshire,Housing and Community Development,0,0,0,0,NH,33
+State Only,New Hampshire,Natural Resources,354,0.266567068,56177.42373,19886808,NH,33
+State Only,New Hampshire,Water Supply,26,0.019578372,52151.53846,1355940,NH,33
+State Only,New Hampshire,Electric Power,0,0,0,0,NH,33
+State Only,New Hampshire,Gas Supply,0,0,0,0,NH,33
+State Only,New Hampshire,Transit,0,0,0,0,NH,33
+State Only,New Hampshire,Education Total,7296,5.493992452,61631.40132,449662704,NH,33
+State Only,New Hampshire,Elementary & Secondary Education Total,0,0,0,0,NH,33
+State Only,New Hampshire,Elem & Sec Instructional Employees,0,0,0,0,NH,33
+State Only,New Hampshire,Elem & Sec Other Employees,0,0,0,0,NH,33
+State Only,New Hampshire,Higher Education Total,6992,5.2650761,61980.01545,433364268,NH,33
+State Only,New Hampshire,Higher Ed Instructional Employees,2351,1.770336658,87213.12633,205038060,NH,33
+State Only,New Hampshire,Higher Ed Other Employees,4641,3.494739442,49197.63154,228326208,NH,33
+State Only,New Hampshire,Other Education,304,0.228916352,53613.27632,16298436,NH,33
+State Only,New Hampshire,Local Libraries,0,0,0,0,NH,33
+State Only,New Hampshire,State Liquor Stores,601,0.452561604,34763.26123,20892720,NH,33
+State Only,New Hampshire,All Other and Unallocable,1419,1.068527315,51828.02537,73543968,NH,33
+State Only,New Jersey,Total,143707,16.07668732,70861.23727,10183255824,NJ,34
+State Only,New Jersey,Financial Administration,5378,0.601643792,62841.05244,337959180,NJ,34
+State Only,New Jersey,Other Government Administration,1161,0.129882566,72527.05943,84203916,NJ,34
+State Only,New Jersey,Judicial and Legal,12882,1.441125944,74228.6912,956214000,NJ,34
+State Only,New Jersey,Police Protection Total,3948,0.441667849,86608.13374,341928912,NJ,34
+State Only,New Jersey,Police Officers Only,2503,0.280013836,104890.8062,262541688,NJ,34
+State Only,New Jersey,Other Police Employees,1445,0.161654013,54939.25536,79387224,NJ,34
+State Only,New Jersey,Fire Protection Total,0,0,0,0,NJ,34
+State Only,New Jersey,Firefighters Only,0,0,0,0,NJ,34
+State Only,New Jersey,Other Fire Employees,0,0,0,0,NJ,34
+State Only,New Jersey,Corrections,8791,0.983460501,72120.20475,634008720,NJ,34
+State Only,New Jersey,Highways,5729,0.640910614,69360.52784,397366464,NJ,34
+State Only,New Jersey,Air Transportation,0,0,0,0,NJ,34
+State Only,New Jersey,Water Transport and Terminals,96,0.010739644,67519.625,6481884,NJ,34
+State Only,New Jersey,Public Welfare,8750,0.978873778,68204.82377,596792208,NJ,34
+State Only,New Jersey,Health,4010,0.448603869,74104.16858,297157716,NJ,34
+State Only,New Jersey,Hospitals,16869,1.887156773,56395.77165,951340272,NJ,34
+State Only,New Jersey,Social Insurance Administration,1684,0.188391251,60274.13302,101501640,NJ,34
+State Only,New Jersey,Solid Waste Management,495,0.055376288,85864.19394,42502776,NJ,34
+State Only,New Jersey,Sewerage,0,0,0,0,NJ,34
+State Only,New Jersey,Parks and Recreation,978,0.109410121,58672.56442,57381768,NJ,34
+State Only,New Jersey,Housing and Community Development,0,0,0,0,NJ,34
+State Only,New Jersey,Natural Resources,1886,0.210989251,70723.30435,133384152,NJ,34
+State Only,New Jersey,Water Supply,110,0.012305842,64416.43636,7085808,NJ,34
+State Only,New Jersey,Electric Power,0,0,0,0,NJ,34
+State Only,New Jersey,Gas Supply,0,0,0,0,NJ,34
+State Only,New Jersey,Transit,11077,1.239198268,68243.45184,755932716,NJ,34
+State Only,New Jersey,Education Total,53975,6.038252821,74886.16308,4041980652,NJ,34
+State Only,New Jersey,Elementary & Secondary Education Total,16131,1.804595762,73475.90404,1185239808,NJ,34
+State Only,New Jersey,Elem & Sec Instructional Employees,10441,1.168048128,88352.04061,922483656,NJ,34
+State Only,New Jersey,Elem & Sec Other Employees,5690,0.636547634,46178.58559,262756152,NJ,34
+State Only,New Jersey,Higher Education Total,35170,3.934513232,75872.51976,2668436520,NJ,34
+State Only,New Jersey,Higher Ed Instructional Employees,9431,1.055058126,126215.2518,1190336040,NJ,34
+State Only,New Jersey,Higher Ed Other Employees,25739,2.879455106,57426.49209,1478100480,NJ,34
+State Only,New Jersey,Other Education,2674,0.299143827,70420.46522,188304324,NJ,34
+State Only,New Jersey,Local Libraries,0,0,0,0,NJ,34
+State Only,New Jersey,State Liquor Stores,0,0,0,0,NJ,34
+State Only,New Jersey,All Other and Unallocable,5888,0.658698149,74733.87228,440033040,NJ,34
+State Only,New Mexico,Total,46114,22.11101346,51871.139,2391985704,NM,35
+State Only,New Mexico,Financial Administration,1107,0.530790907,51911.6748,57466224,NM,35
+State Only,New Mexico,Other Government Administration,212,0.101651014,60333.22642,12790644,NM,35
+State Only,New Mexico,Judicial and Legal,3246,1.556411278,51381.39002,166783992,NM,35
+State Only,New Mexico,Police Protection Total,526,0.252209591,50428.12928,26525196,NM,35
+State Only,New Mexico,Police Officers Only,526,0.252209591,50428.12928,26525196,NM,35
+State Only,New Mexico,Other Police Employees,0,0,0,0,NM,35
+State Only,New Mexico,Fire Protection Total,0,0,0,0,NM,35
+State Only,New Mexico,Firefighters Only,0,0,0,0,NM,35
+State Only,New Mexico,Other Fire Employees,0,0,0,0,NM,35
+State Only,New Mexico,Corrections,3742,1.794236292,41402.95029,154929840,NM,35
+State Only,New Mexico,Highways,2144,1.0280178,42602.51306,91339788,NM,35
+State Only,New Mexico,Air Transportation,6,0.002876915,53228,319368,NM,35
+State Only,New Mexico,Water Transport and Terminals,0,0,0,0,NM,35
+State Only,New Mexico,Public Welfare,1781,0.853964414,41617.05109,74119968,NM,35
+State Only,New Mexico,Health,2325,1.114804751,48416.45935,112568268,NM,35
+State Only,New Mexico,Hospitals,7360,3.52901633,51808.17717,381308184,NM,35
+State Only,New Mexico,Social Insurance Administration,334,0.160148295,36973.11377,12349020,NM,35
+State Only,New Mexico,Solid Waste Management,0,0,0,0,NM,35
+State Only,New Mexico,Sewerage,0,0,0,0,NM,35
+State Only,New Mexico,Parks and Recreation,742,0.355778548,37563.02426,27871764,NM,35
+State Only,New Mexico,Housing and Community Development,0,0,0,0,NM,35
+State Only,New Mexico,Natural Resources,1049,0.502980724,51255.19161,53766696,NM,35
+State Only,New Mexico,Water Supply,0,0,0,0,NM,35
+State Only,New Mexico,Electric Power,0,0,0,0,NM,35
+State Only,New Mexico,Gas Supply,0,0,0,0,NM,35
+State Only,New Mexico,Transit,0,0,0,0,NM,35
+State Only,New Mexico,Education Total,19468,9.334631781,57579.66879,1120960992,NM,35
+State Only,New Mexico,Elementary & Secondary Education Total,0,0,0,0,NM,35
+State Only,New Mexico,Elem & Sec Instructional Employees,0,0,0,0,NM,35
+State Only,New Mexico,Elem & Sec Other Employees,0,0,0,0,NM,35
+State Only,New Mexico,Higher Education Total,18580,8.908848289,57963.7944,1076967300,NM,35
+State Only,New Mexico,Higher Ed Instructional Employees,5243,2.513944649,95949.56246,503063556,NM,35
+State Only,New Mexico,Higher Ed Other Employees,13337,6.39490364,43030.94729,573903744,NM,35
+State Only,New Mexico,Other Education,888,0.425783492,49542.44595,43993692,NM,35
+State Only,New Mexico,Local Libraries,0,0,0,0,NM,35
+State Only,New Mexico,State Liquor Stores,0,0,0,0,NM,35
+State Only,New Mexico,All Other and Unallocable,2072,0.993494815,47724.78764,98885760,NM,35
+State Only,New York,Total,240744,12.1902745,70754.07372,17033618724,NY,36
+State Only,New York,Financial Administration,16277,0.824199556,67329.07022,1095915276,NY,36
+State Only,New York,Other Government Administration,4821,0.244115381,49065.88923,236546652,NY,36
+State Only,New York,Judicial and Legal,18442,0.933826148,87799.80371,1619203980,NY,36
+State Only,New York,Police Protection Total,5785,0.29292833,104070.5362,602048052,NY,36
+State Only,New York,Police Officers Only,4574,0.231608329,118136.718,540357348,NY,36
+State Only,New York,Other Police Employees,1211,0.061320001,50941.95211,61690704,NY,36
+State Only,New York,Fire Protection Total,0,0,0,0,NY,36
+State Only,New York,Firefighters Only,0,0,0,0,NY,36
+State Only,New York,Other Fire Employees,0,0,0,0,NY,36
+State Only,New York,Corrections,29307,1.483984542,73131.58358,2143267320,NY,36
+State Only,New York,Highways,10641,0.538815966,67466.20694,717907908,NY,36
+State Only,New York,Air Transportation,193,0.009772717,54929.34715,10601364,NY,36
+State Only,New York,Water Transport and Terminals,538,0.027242082,72771.25651,39150936,NY,36
+State Only,New York,Public Welfare,4354,0.220468444,61237.67846,266628852,NY,36
+State Only,New York,Health,8016,0.405896888,71707.65269,574808544,NY,36
+State Only,New York,Hospitals,41614,2.107159817,66823.32475,2780785836,NY,36
+State Only,New York,Social Insurance Administration,7876,0.39880787,62811.90046,494706528,NY,36
+State Only,New York,Solid Waste Management,0,0,0,0,NY,36
+State Only,New York,Sewerage,0,0,0,0,NY,36
+State Only,New York,Parks and Recreation,2657,0.134539425,46678.04893,124023576,NY,36
+State Only,New York,Housing and Community Development,0,0,0,0,NY,36
+State Only,New York,Natural Resources,2938,0.148768096,66604.14568,195682980,NY,36
+State Only,New York,Water Supply,0,0,0,0,NY,36
+State Only,New York,Electric Power,1626,0.082333875,95942.87085,156003108,NY,36
+State Only,New York,Gas Supply,0,0,0,0,NY,36
+State Only,New York,Transit,15026,0.760854121,88878.5742,1335489456,NY,36
+State Only,New York,Education Total,60959,3.086710128,65242.08776,3977092428,NY,36
+State Only,New York,Elementary & Secondary Education Total,0,0,0,0,NY,36
+State Only,New York,Elem & Sec Instructional Employees,0,0,0,0,NY,36
+State Only,New York,Elem & Sec Other Employees,0,0,0,0,NY,36
+State Only,New York,Higher Education Total,57042,2.888369545,65220.36436,3720300024,NY,36
+State Only,New York,Higher Ed Instructional Employees,20316,1.028717711,85921.96338,1745590608,NY,36
+State Only,New York,Higher Ed Other Employees,36726,1.859651834,53768.70381,1974709416,NY,36
+State Only,New York,Other Education,3917,0.198340583,65558.4386,256792404,NY,36
+State Only,New York,Local Libraries,0,0,0,0,NY,36
+State Only,New York,State Liquor Stores,0,0,0,0,NY,36
+State Only,New York,All Other and Unallocable,9674,0.489851109,68612.35559,663755928,NY,36
+State Only,North Carolina,Total,145187,14.60576937,53620.02267,7784930232,NC,37
+State Only,North Carolina,Financial Administration,3257,0.327653239,53724.71845,174981408,NC,37
+State Only,North Carolina,Other Government Administration,1110,0.111665673,52712.37838,58510740,NC,37
+State Only,North Carolina,Judicial and Legal,6293,0.633073944,57362.41792,360981696,NC,37
+State Only,North Carolina,Police Protection Total,2869,0.288620554,71315.66539,204604644,NC,37
+State Only,North Carolina,Police Officers Only,2270,0.22836133,73998.6978,167977044,NC,37
+State Only,North Carolina,Other Police Employees,599,0.060259223,61147.91319,36627600,NC,37
+State Only,North Carolina,Fire Protection Total,0,0,0,0,NC,37
+State Only,North Carolina,Firefighters Only,0,0,0,0,NC,37
+State Only,North Carolina,Other Fire Employees,0,0,0,0,NC,37
+State Only,North Carolina,Corrections,19830,1.994892151,45058.41634,893508396,NC,37
+State Only,North Carolina,Highways,10828,1.089293606,46121.82822,499407156,NC,37
+State Only,North Carolina,Air Transportation,0,0,0,0,NC,37
+State Only,North Carolina,Water Transport and Terminals,223,0.022433734,53012.39462,11821764,NC,37
+State Only,North Carolina,Public Welfare,1120,0.11267167,44181.81429,49483632,NC,37
+State Only,North Carolina,Health,2697,0.271317404,49023.76863,132217104,NC,37
+State Only,North Carolina,Hospitals,18505,1.861597541,50310.50808,930995952,NC,37
+State Only,North Carolina,Social Insurance Administration,1550,0.155929543,53055.54581,82236096,NC,37
+State Only,North Carolina,Solid Waste Management,281,0.028268517,61538.47687,17292312,NC,37
+State Only,North Carolina,Sewerage,0,0,0,0,NC,37
+State Only,North Carolina,Parks and Recreation,1411,0.141946184,40053.39759,56515344,NC,37
+State Only,North Carolina,Housing and Community Development,0,0,0,0,NC,37
+State Only,North Carolina,Natural Resources,4031,0.405517411,45314.67924,182663472,NC,37
+State Only,North Carolina,Water Supply,0,0,0,0,NC,37
+State Only,North Carolina,Electric Power,0,0,0,0,NC,37
+State Only,North Carolina,Gas Supply,0,0,0,0,NC,37
+State Only,North Carolina,Transit,0,0,0,0,NC,37
+State Only,North Carolina,Education Total,66102,6.649841701,58332.96687,3855925776,NC,37
+State Only,North Carolina,Elementary & Secondary Education Total,0,0,0,0,NC,37
+State Only,North Carolina,Elem & Sec Instructional Employees,0,0,0,0,NC,37
+State Only,North Carolina,Elem & Sec Other Employees,0,0,0,0,NC,37
+State Only,North Carolina,Higher Education Total,62259,6.263237035,58429.21525,3637744512,NC,37
+State Only,North Carolina,Higher Ed Instructional Employees,22548,2.268322149,79913.59447,1801891728,NC,37
+State Only,North Carolina,Higher Ed Other Employees,39711,3.994914886,46230.33376,1835852784,NC,37
+State Only,North Carolina,Other Education,3843,0.386604666,56773.68306,218181264,NC,37
+State Only,North Carolina,Local Libraries,0,0,0,0,NC,37
+State Only,North Carolina,State Liquor Stores,0,0,0,0,NC,37
+State Only,North Carolina,All Other and Unallocable,5080,0.511046502,53894.63386,273784740,NC,37
+State Only,North Dakota,Total,18752,25.33917086,52862.49701,991277544,ND,38
+State Only,North Dakota,Financial Administration,688,0.929679477,52533.85465,36143292,ND,38
+State Only,North Dakota,Other Government Administration,230,0.310794011,54835.61739,12612192,ND,38
+State Only,North Dakota,Judicial and Legal,602,0.813469542,64735.03654,38970492,ND,38
+State Only,North Dakota,Police Protection Total,207,0.27971461,63986.55072,13245216,ND,38
+State Only,North Dakota,Police Officers Only,160,0.216204529,69621.075,11139372,ND,38
+State Only,North Dakota,Other Police Employees,47,0.063510081,44805.19149,2105844,ND,38
+State Only,North Dakota,Fire Protection Total,0,0,0,0,ND,38
+State Only,North Dakota,Firefighters Only,0,0,0,0,ND,38
+State Only,North Dakota,Other Fire Employees,0,0,0,0,ND,38
+State Only,North Dakota,Corrections,875,1.182368521,47678.42743,41718624,ND,38
+State Only,North Dakota,Highways,1024,1.383708989,64450.85156,65997672,ND,38
+State Only,North Dakota,Air Transportation,0,0,0,0,ND,38
+State Only,North Dakota,Water Transport and Terminals,0,0,0,0,ND,38
+State Only,North Dakota,Public Welfare,543,0.733744122,39868.97238,21648852,ND,38
+State Only,North Dakota,Health,1700,2.297173126,44931.39529,76383372,ND,38
+State Only,North Dakota,Hospitals,921,1.244527323,35959.57003,33118764,ND,38
+State Only,North Dakota,Social Insurance Administration,342,0.462137182,48533.54386,16598472,ND,38
+State Only,North Dakota,Solid Waste Management,0,0,0,0,ND,38
+State Only,North Dakota,Sewerage,0,0,0,0,ND,38
+State Only,North Dakota,Parks and Recreation,178,0.240527539,41355.16854,7361220,ND,38
+State Only,North Dakota,Housing and Community Development,0,0,0,0,ND,38
+State Only,North Dakota,Natural Resources,1086,1.467488244,50065.27072,54370884,ND,38
+State Only,North Dakota,Water Supply,0,0,0,0,ND,38
+State Only,North Dakota,Electric Power,0,0,0,0,ND,38
+State Only,North Dakota,Gas Supply,0,0,0,0,ND,38
+State Only,North Dakota,Transit,0,0,0,0,ND,38
+State Only,North Dakota,Education Total,8816,11.91286957,54997.04265,484853928,ND,38
+State Only,North Dakota,Elementary & Secondary Education Total,0,0,0,0,ND,38
+State Only,North Dakota,Elem & Sec Instructional Employees,0,0,0,0,ND,38
+State Only,North Dakota,Elem & Sec Other Employees,0,0,0,0,ND,38
+State Only,North Dakota,Higher Education Total,8486,11.46694773,55258.26774,468921660,ND,38
+State Only,North Dakota,Higher Ed Instructional Employees,3112,4.205178098,76280.33676,237384408,ND,38
+State Only,North Dakota,Higher Ed Other Employees,5374,7.261769634,43084.71381,231537252,ND,38
+State Only,North Dakota,Other Education,330,0.445921842,48279.6,15932268,ND,38
+State Only,North Dakota,Local Libraries,0,0,0,0,ND,38
+State Only,North Dakota,State Liquor Stores,0,0,0,0,ND,38
+State Only,North Dakota,All Other and Unallocable,1540,2.080968596,57308.15844,88254564,ND,38
+State Only,Ohio,Total,136486,11.76908024,57838.22408,7894107852,OH,39
+State Only,Ohio,Financial Administration,6565,0.566094777,65140.55506,427647744,OH,39
+State Only,Ohio,Other Government Administration,752,0.064844367,51997.2766,39101952,OH,39
+State Only,Ohio,Judicial and Legal,3043,0.262395492,70705.08051,215155560,OH,39
+State Only,Ohio,Police Protection Total,2607,0.224799556,61654.12658,160732308,OH,39
+State Only,Ohio,Police Officers Only,1429,0.123221544,70722.58362,101062572,OH,39
+State Only,Ohio,Other Police Employees,1178,0.101578012,50653.42615,59669736,OH,39
+State Only,Ohio,Fire Protection Total,0,0,0,0,OH,39
+State Only,Ohio,Firefighters Only,0,0,0,0,OH,39
+State Only,Ohio,Other Fire Employees,0,0,0,0,OH,39
+State Only,Ohio,Corrections,13113,1.130723658,53189.08442,697468464,OH,39
+State Only,Ohio,Highways,6228,0.537035533,55614.77842,346368840,OH,39
+State Only,Ohio,Air Transportation,0,0,0,0,OH,39
+State Only,Ohio,Water Transport and Terminals,0,0,0,0,OH,39
+State Only,Ohio,Public Welfare,3197,0.275674791,65018.56741,207864360,OH,39
+State Only,Ohio,Health,3174,0.273691519,66258.93006,210305844,OH,39
+State Only,Ohio,Hospitals,15316,1.320686612,58890.81483,901971720,OH,39
+State Only,Ohio,Social Insurance Administration,2108,0.181771179,50336.51044,106109364,OH,39
+State Only,Ohio,Solid Waste Management,0,0,0,0,OH,39
+State Only,Ohio,Sewerage,0,0,0,0,OH,39
+State Only,Ohio,Parks and Recreation,516,0.044494273,46923.09302,24212316,OH,39
+State Only,Ohio,Housing and Community Development,0,0,0,0,OH,39
+State Only,Ohio,Natural Resources,2476,0.213503529,51779.00162,128204808,OH,39
+State Only,Ohio,Water Supply,0,0,0,0,OH,39
+State Only,Ohio,Electric Power,0,0,0,0,OH,39
+State Only,Ohio,Gas Supply,0,0,0,0,OH,39
+State Only,Ohio,Transit,0,0,0,0,OH,39
+State Only,Ohio,Education Total,72859,6.282574163,56851.53181,4142145756,OH,39
+State Only,Ohio,Elementary & Secondary Education Total,0,0,0,0,OH,39
+State Only,Ohio,Elem & Sec Instructional Employees,0,0,0,0,OH,39
+State Only,Ohio,Elem & Sec Other Employees,0,0,0,0,OH,39
+State Only,Ohio,Higher Education Total,70866,6.110719343,56702.88612,4018306728,OH,39
+State Only,Ohio,Higher Ed Instructional Employees,23067,1.989049235,79794.91221,1840629240,OH,39
+State Only,Ohio,Higher Ed Other Employees,47799,4.121670108,45559.05956,2177677488,OH,39
+State Only,Ohio,Other Education,1993,0.17185482,62136.99348,123839028,OH,39
+State Only,Ohio,Local Libraries,0,0,0,0,OH,39
+State Only,Ohio,State Liquor Stores,0,0,0,0,OH,39
+State Only,Ohio,All Other and Unallocable,4532,0.390790789,63287.47043,286818816,OH,39
+State Only,Oklahoma,Total,66939,17.25405389,47818.11231,3200896620,OK,40
+State Only,Oklahoma,Financial Administration,2554,0.658313593,48762.28661,124538880,OK,40
+State Only,Oklahoma,Other Government Administration,512,0.131972028,45360.82031,23224740,OK,40
+State Only,Oklahoma,Judicial and Legal,2807,0.723526334,54657.30673,153423060,OK,40
+State Only,Oklahoma,Police Protection Total,1954,0.503658873,53492.96622,104525256,OK,40
+State Only,Oklahoma,Police Officers Only,1018,0.262397509,63610.72692,64755720,OK,40
+State Only,Oklahoma,Other Police Employees,936,0.241261364,42488.82051,39769536,OK,40
+State Only,Oklahoma,Fire Protection Total,0,0,0,0,OK,40
+State Only,Oklahoma,Firefighters Only,0,0,0,0,OK,40
+State Only,Oklahoma,Other Fire Employees,0,0,0,0,OK,40
+State Only,Oklahoma,Corrections,4628,1.19290341,37391.40882,173047440,OK,40
+State Only,Oklahoma,Highways,2875,0.741053869,44794.27617,128783544,OK,40
+State Only,Oklahoma,Air Transportation,11,0.002835337,56934.54545,626280,OK,40
+State Only,Oklahoma,Water Transport and Terminals,0,0,0,0,OK,40
+State Only,Oklahoma,Public Welfare,7441,1.917976291,36755.53393,273497928,OK,40
+State Only,Oklahoma,Health,5347,1.378231317,47408.22293,253491768,OK,40
+State Only,Oklahoma,Hospitals,1566,0.40364882,46993.09579,73591188,OK,40
+State Only,Oklahoma,Social Insurance Administration,1225,0.315753388,46236.61714,56639856,OK,40
+State Only,Oklahoma,Solid Waste Management,79,0.020362872,57996,4581684,OK,40
+State Only,Oklahoma,Sewerage,0,0,0,0,OK,40
+State Only,Oklahoma,Parks and Recreation,716,0.184554633,31315.22346,22421700,OK,40
+State Only,Oklahoma,Housing and Community Development,0,0,0,0,OK,40
+State Only,Oklahoma,Natural Resources,1811,0.466799498,42340.8106,76679208,OK,40
+State Only,Oklahoma,Water Supply,0,0,0,0,OK,40
+State Only,Oklahoma,Electric Power,596,0.153623689,68906.87919,41068500,OK,40
+State Only,Oklahoma,Gas Supply,0,0,0,0,OK,40
+State Only,Oklahoma,Transit,0,0,0,0,OK,40
+State Only,Oklahoma,Education Total,30485,7.857748588,51690.24622,1575777156,OK,40
+State Only,Oklahoma,Elementary & Secondary Education Total,0,0,0,0,OK,40
+State Only,Oklahoma,Elem & Sec Instructional Employees,0,0,0,0,OK,40
+State Only,Oklahoma,Elem & Sec Other Employees,0,0,0,0,OK,40
+State Only,Oklahoma,Higher Education Total,28793,7.421622276,51965.62012,1496246100,OK,40
+State Only,Oklahoma,Higher Ed Instructional Employees,8136,2.097118009,77512.06342,630638148,OK,40
+State Only,Oklahoma,Higher Ed Other Employees,20657,5.324504267,41903.85593,865607952,OK,40
+State Only,Oklahoma,Other Education,1692,0.436126312,47004.17021,79531056,OK,40
+State Only,Oklahoma,Local Libraries,0,0,0,0,OK,40
+State Only,Oklahoma,State Liquor Stores,0,0,0,0,OK,40
+State Only,Oklahoma,All Other and Unallocable,2332,0.601091347,49304.64494,114978432,OK,40
+State Only,Oregon,Total,66966,16.86290448,58519.95162,3918847080,OR,41
+State Only,Oregon,Financial Administration,3943,0.992898372,54952.75678,216678720,OR,41
+State Only,Oregon,Other Government Administration,992,0.249798424,59473.04032,58997256,OR,41
+State Only,Oregon,Judicial and Legal,3020,0.76047504,60624,183084480,OR,41
+State Only,Oregon,Police Protection Total,1360,0.342465581,64438.59706,87636492,OR,41
+State Only,Oregon,Police Officers Only,673,0.1694701,74840.52303,50367672,OR,41
+State Only,Oregon,Other Police Employees,687,0.172995481,54248.64629,37268820,OR,41
+State Only,Oregon,Fire Protection Total,0,0,0,0,OR,41
+State Only,Oregon,Firefighters Only,0,0,0,0,OR,41
+State Only,Oregon,Other Fire Employees,0,0,0,0,OR,41
+State Only,Oregon,Corrections,5068,1.276187915,58553.93844,296751360,OR,41
+State Only,Oregon,Highways,3678,0.926167946,61084.73736,224669664,OR,41
+State Only,Oregon,Air Transportation,12,0.003021755,55222,662664,OR,41
+State Only,Oregon,Water Transport and Terminals,0,0,0,0,OR,41
+State Only,Oregon,Public Welfare,7527,1.895395903,45532.83539,342725652,OR,41
+State Only,Oregon,Health,2177,0.548196742,53940.79927,117429120,OR,41
+State Only,Oregon,Hospitals,7982,2.009970785,62176.1328,496289892,OR,41
+State Only,Oregon,Social Insurance Administration,2044,0.514705623,74285.77691,151840128,OR,41
+State Only,Oregon,Solid Waste Management,0,0,0,0,OR,41
+State Only,Oregon,Sewerage,0,0,0,0,OR,41
+State Only,Oregon,Parks and Recreation,438,0.110294062,51719.86301,22653300,OR,41
+State Only,Oregon,Housing and Community Development,0,0,0,0,OR,41
+State Only,Oregon,Natural Resources,2520,0.634568576,53408.27143,134588844,OR,41
+State Only,Oregon,Water Supply,0,0,0,0,OR,41
+State Only,Oregon,Electric Power,0,0,0,0,OR,41
+State Only,Oregon,Gas Supply,0,0,0,0,OR,41
+State Only,Oregon,Transit,0,0,0,0,OR,41
+State Only,Oregon,Education Total,24606,6.196108886,60592.45404,1490937924,OR,41
+State Only,Oregon,Elementary & Secondary Education Total,0,0,0,0,OR,41
+State Only,Oregon,Elem & Sec Instructional Employees,0,0,0,0,OR,41
+State Only,Oregon,Elem & Sec Other Employees,0,0,0,0,OR,41
+State Only,Oregon,Higher Education Total,23803,5.993903105,60657.14759,1443822084,OR,41
+State Only,Oregon,Higher Ed Instructional Employees,11338,2.855054968,82254.51755,932601720,OR,41
+State Only,Oregon,Higher Ed Other Employees,12465,3.138848137,41012.46402,511220364,OR,41
+State Only,Oregon,Other Education,803,0.202205781,58674.76961,47115840,OR,41
+State Only,Oregon,Local Libraries,0,0,0,0,OR,41
+State Only,Oregon,State Liquor Stores,210,0.052880715,52449.88571,11014476,OR,41
+State Only,Oregon,All Other and Unallocable,1389,0.349768156,59673.94384,82887108,OR,41
+State Only,Pennsylvania,Total,161369,12.61309511,59329.12497,9573881568,PA,42
+State Only,Pennsylvania,Financial Administration,6990,0.546359802,52094.3485,364139496,PA,42
+State Only,Pennsylvania,Other Government Administration,3068,0.239804273,55910.18644,171532452,PA,42
+State Only,Pennsylvania,Judicial and Legal,3050,0.238397338,103911.4308,316929864,PA,42
+State Only,Pennsylvania,Police Protection Total,6671,0.521425785,74218.94768,495114600,PA,42
+State Only,Pennsylvania,Police Officers Only,5200,0.406447921,73601.55462,382728084,PA,42
+State Only,Pennsylvania,Other Police Employees,1471,0.114977864,76401.43848,112386516,PA,42
+State Only,Pennsylvania,Fire Protection Total,0,0,0,0,PA,42
+State Only,Pennsylvania,Firefighters Only,0,0,0,0,PA,42
+State Only,Pennsylvania,Other Fire Employees,0,0,0,0,PA,42
+State Only,Pennsylvania,Corrections,18381,1.436715238,55190.75763,1014461316,PA,42
+State Only,Pennsylvania,Highways,13581,1.061532542,49501.70091,672282600,PA,42
+State Only,Pennsylvania,Air Transportation,132,0.010317524,47027.18182,6207588,PA,42
+State Only,Pennsylvania,Water Transport and Terminals,214,0.016726895,53551.45794,11460012,PA,42
+State Only,Pennsylvania,Public Welfare,11066,0.864952441,47294.08748,523356372,PA,42
+State Only,Pennsylvania,Health,1706,0.133346183,64074.83705,109311672,PA,42
+State Only,Pennsylvania,Hospitals,11005,0.860184495,42723.06079,470167284,PA,42
+State Only,Pennsylvania,Social Insurance Administration,4233,0.33086424,50752.54146,214835508,PA,42
+State Only,Pennsylvania,Solid Waste Management,0,0,0,0,PA,42
+State Only,Pennsylvania,Sewerage,0,0,0,0,PA,42
+State Only,Pennsylvania,Parks and Recreation,2657,0.207679255,46642.07603,123927996,PA,42
+State Only,Pennsylvania,Housing and Community Development,0,0,0,0,PA,42
+State Only,Pennsylvania,Natural Resources,5726,0.447561692,61336.90395,351215112,PA,42
+State Only,Pennsylvania,Water Supply,0,0,0,0,PA,42
+State Only,Pennsylvania,Electric Power,0,0,0,0,PA,42
+State Only,Pennsylvania,Gas Supply,0,0,0,0,PA,42
+State Only,Pennsylvania,Transit,0,0,0,0,PA,42
+State Only,Pennsylvania,Education Total,62578,4.891288078,67256.84976,4208799144,PA,42
+State Only,Pennsylvania,Elementary & Secondary Education Total,0,0,0,0,PA,42
+State Only,Pennsylvania,Elem & Sec Instructional Employees,0,0,0,0,PA,42
+State Only,Pennsylvania,Elem & Sec Other Employees,0,0,0,0,PA,42
+State Only,Pennsylvania,Higher Education Total,57688,4.509070706,68721.10734,3964383240,PA,42
+State Only,Pennsylvania,Higher Ed Instructional Employees,18974,1.483065934,106669.275,2023942824,PA,42
+State Only,Pennsylvania,Higher Ed Other Employees,38714,3.026004772,50122.44707,1940440416,PA,42
+State Only,Pennsylvania,Other Education,4890,0.382217372,49982.80245,244415904,PA,42
+State Only,Pennsylvania,Local Libraries,0,0,0,0,PA,42
+State Only,Pennsylvania,State Liquor Stores,4498,0.351577452,42762.07737,192343824,PA,42
+State Only,Pennsylvania,All Other and Unallocable,5813,0.454361878,56390.28522,327796728,PA,42
+State Only,Rhode Island,Total,18691,17.71814956,65727.32631,1228509456,RI,44
+State Only,Rhode Island,Financial Administration,884,0.837988562,66291.48869,58601676,RI,44
+State Only,Rhode Island,Other Government Administration,785,0.744141427,64547.96943,50670156,RI,44
+State Only,Rhode Island,Judicial and Legal,1180,1.118582017,71094.69153,83891736,RI,44
+State Only,Rhode Island,Police Protection Total,345,0.327043047,87179.89565,30077064,RI,44
+State Only,Rhode Island,Police Officers Only,262,0.248363126,90052.30534,23593704,RI,44
+State Only,Rhode Island,Other Police Employees,83,0.078679922,78112.77108,6483360,RI,44
+State Only,Rhode Island,Fire Protection Total,0,0,0,0,RI,44
+State Only,Rhode Island,Firefighters Only,0,0,0,0,RI,44
+State Only,Rhode Island,Other Fire Employees,0,0,0,0,RI,44
+State Only,Rhode Island,Corrections,1521,1.441833261,77092.58383,117257820,RI,44
+State Only,Rhode Island,Highways,746,0.707171343,61219.28686,45669588,RI,44
+State Only,Rhode Island,Air Transportation,146,0.138400826,81980.30137,11969124,RI,44
+State Only,Rhode Island,Water Transport and Terminals,0,0,0,0,RI,44
+State Only,Rhode Island,Public Welfare,1320,1.251295138,69691.94545,91993368,RI,44
+State Only,Rhode Island,Health,990,0.938471353,62804.35152,62176308,RI,44
+State Only,Rhode Island,Hospitals,854,0.809550036,59502.73068,50815332,RI,44
+State Only,Rhode Island,Social Insurance Administration,381,0.361169278,62933.07087,23977500,RI,44
+State Only,Rhode Island,Solid Waste Management,98,0.092899184,74154.85714,7267176,RI,44
+State Only,Rhode Island,Sewerage,252,0.238883617,60473.09524,15239220,RI,44
+State Only,Rhode Island,Parks and Recreation,49,0.046449592,45959.26531,2252004,RI,44
+State Only,Rhode Island,Housing and Community Development,0,0,0,0,RI,44
+State Only,Rhode Island,Natural Resources,376,0.356429524,69741.57447,26222832,RI,44
+State Only,Rhode Island,Water Supply,0,0,0,0,RI,44
+State Only,Rhode Island,Electric Power,0,0,0,0,RI,44
+State Only,Rhode Island,Gas Supply,0,0,0,0,RI,44
+State Only,Rhode Island,Transit,781,0.740349623,59025.64917,46099032,RI,44
+State Only,Rhode Island,Education Total,6312,5.983465841,60778.55703,383634252,RI,44
+State Only,Rhode Island,Elementary & Secondary Education Total,414,0.392451657,58723.21739,24311412,RI,44
+State Only,Rhode Island,Elem & Sec Instructional Employees,255,0.24172747,76492.23529,19505520,RI,44
+State Only,Rhode Island,Elem & Sec Other Employees,159,0.150724187,30225.73585,4805892,RI,44
+State Only,Rhode Island,Higher Education Total,5401,5.119882606,59843.12016,323212692,RI,44
+State Only,Rhode Island,Higher Ed Instructional Employees,1838,1.742333684,82096.04788,150892536,RI,44
+State Only,Rhode Island,Higher Ed Other Employees,3563,3.377548921,48363.78221,172320156,RI,44
+State Only,Rhode Island,Other Education,497,0.471131578,72656.2334,36110148,RI,44
+State Only,Rhode Island,Local Libraries,0,0,0,0,RI,44
+State Only,Rhode Island,State Liquor Stores,0,0,0,0,RI,44
+State Only,Rhode Island,All Other and Unallocable,1671,1.58402589,72229.36445,120695268,RI,44
+State Only,South Carolina,Total,78690,16.29475934,46569.84705,3664581264,SC,45
+State Only,South Carolina,Financial Administration,3351,0.6939095,42578.13429,142679328,SC,45
+State Only,South Carolina,Other Government Administration,712,0.14743765,42804.03371,30476472,SC,45
+State Only,South Carolina,Judicial and Legal,836,0.173114993,57674.49761,48215880,SC,45
+State Only,South Carolina,Police Protection Total,2058,0.426161071,44185.11953,90932976,SC,45
+State Only,South Carolina,Police Officers Only,1379,0.285556908,46972.92531,64775664,SC,45
+State Only,South Carolina,Other Police Employees,679,0.140604163,38523.28719,26157312,SC,45
+State Only,South Carolina,Fire Protection Total,0,0,0,0,SC,45
+State Only,South Carolina,Firefighters Only,0,0,0,0,SC,45
+State Only,South Carolina,Other Fire Employees,0,0,0,0,SC,45
+State Only,South Carolina,Corrections,8224,1.702987683,34038.72957,279934512,SC,45
+State Only,South Carolina,Highways,4280,0.8862825,39946.73271,170972016,SC,45
+State Only,South Carolina,Air Transportation,13,0.00269198,57343.38462,745464,SC,45
+State Only,South Carolina,Water Transport and Terminals,488,0.101052771,61902.88525,30208608,SC,45
+State Only,South Carolina,Public Welfare,4781,0.990027251,34359.17507,164271216,SC,45
+State Only,South Carolina,Health,5245,1.086110214,41974.99104,220158828,SC,45
+State Only,South Carolina,Hospitals,6984,1.446214248,33678.23196,235208772,SC,45
+State Only,South Carolina,Social Insurance Administration,1130,0.233995146,38995.15752,44064528,SC,45
+State Only,South Carolina,Solid Waste Management,0,0,0,0,SC,45
+State Only,South Carolina,Sewerage,0,0,0,0,SC,45
+State Only,South Carolina,Parks and Recreation,757,0.15675604,27153.63804,20555304,SC,45
+State Only,South Carolina,Housing and Community Development,138,0.028576398,51295.47826,7078776,SC,45
+State Only,South Carolina,Natural Resources,2138,0.4427271,37281.4855,79707816,SC,45
+State Only,South Carolina,Water Supply,12,0.002484904,71440,857280,SC,45
+State Only,South Carolina,Electric Power,1740,0.36031111,78603.38621,136769892,SC,45
+State Only,South Carolina,Gas Supply,0,0,0,0,SC,45
+State Only,South Carolina,Transit,0,0,0,0,SC,45
+State Only,South Carolina,Education Total,34309,7.104548203,55282.34283,1896681900,SC,45
+State Only,South Carolina,Elementary & Secondary Education Total,0,0,0,0,SC,45
+State Only,South Carolina,Elem & Sec Instructional Employees,0,0,0,0,SC,45
+State Only,South Carolina,Elem & Sec Other Employees,0,0,0,0,SC,45
+State Only,South Carolina,Higher Education Total,31320,6.48559998,56361.64636,1765246764,SC,45
+State Only,South Carolina,Higher Ed Instructional Employees,11237,2.326905714,73902.80573,830445828,SC,45
+State Only,South Carolina,Higher Ed Other Employees,20083,4.158694266,46546.87726,934800936,SC,45
+State Only,South Carolina,Other Education,2989,0.618948223,43972.94614,131435136,SC,45
+State Only,South Carolina,Local Libraries,35,0.007247637,44604.34286,1561152,SC,45
+State Only,South Carolina,State Liquor Stores,0,0,0,0,SC,45
+State Only,South Carolina,All Other and Unallocable,1459,0.302122936,43523.33379,63500544,SC,45
+State Only,South Dakota,Total,14625,17.13926104,47258.46892,691155108,SD,46
+State Only,South Dakota,Financial Administration,440,0.515642725,57434.7,25271268,SD,46
+State Only,South Dakota,Other Government Administration,386,0.4523593,47710.07254,18416088,SD,46
+State Only,South Dakota,Judicial and Legal,635,0.744166206,54376.36535,34528992,SD,46
+State Only,South Dakota,Police Protection Total,337,0.394935451,48653.34125,16396176,SD,46
+State Only,South Dakota,Police Officers Only,210,0.24610221,54327.2,11408712,SD,46
+State Only,South Dakota,Other Police Employees,127,0.148833241,39271.37008,4987464,SD,46
+State Only,South Dakota,Fire Protection Total,0,0,0,0,SD,46
+State Only,South Dakota,Firefighters Only,0,0,0,0,SD,46
+State Only,South Dakota,Other Fire Employees,0,0,0,0,SD,46
+State Only,South Dakota,Corrections,871,1.020738213,40324.62916,35122752,SD,46
+State Only,South Dakota,Highways,989,1.159024216,46335.3003,45825612,SD,46
+State Only,South Dakota,Air Transportation,0,0,0,0,SD,46
+State Only,South Dakota,Water Transport and Terminals,0,0,0,0,SD,46
+State Only,South Dakota,Public Welfare,1730,2.027413442,42343.64393,73254504,SD,46
+State Only,South Dakota,Health,613,0.718384069,52689.41599,32298612,SD,46
+State Only,South Dakota,Hospitals,379,0.444155893,35828.29551,13578924,SD,46
+State Only,South Dakota,Social Insurance Administration,250,0.292978821,36619.488,9154872,SD,46
+State Only,South Dakota,Solid Waste Management,0,0,0,0,SD,46
+State Only,South Dakota,Sewerage,0,0,0,0,SD,46
+State Only,South Dakota,Parks and Recreation,139,0.162896225,38290.44604,5322372,SD,46
+State Only,South Dakota,Housing and Community Development,0,0,0,0,SD,46
+State Only,South Dakota,Natural Resources,948,1.11097569,42837.96203,40610388,SD,46
+State Only,South Dakota,Water Supply,0,0,0,0,SD,46
+State Only,South Dakota,Electric Power,0,0,0,0,SD,46
+State Only,South Dakota,Gas Supply,0,0,0,0,SD,46
+State Only,South Dakota,Transit,0,0,0,0,SD,46
+State Only,South Dakota,Education Total,6073,7.117041523,49540.52692,300859620,SD,46
+State Only,South Dakota,Elementary & Secondary Education Total,0,0,0,0,SD,46
+State Only,South Dakota,Elem & Sec Instructional Employees,0,0,0,0,SD,46
+State Only,South Dakota,Elem & Sec Other Employees,0,0,0,0,SD,46
+State Only,South Dakota,Higher Education Total,5708,6.689292444,49871.66783,284667480,SD,46
+State Only,South Dakota,Higher Ed Instructional Employees,2140,2.507898709,67916.38318,145341060,SD,46
+State Only,South Dakota,Higher Ed Other Employees,3568,4.181393735,39048.88453,139326420,SD,46
+State Only,South Dakota,Other Education,365,0.427749079,44362.0274,16192140,SD,46
+State Only,South Dakota,Local Libraries,0,0,0,0,SD,46
+State Only,South Dakota,State Liquor Stores,0,0,0,0,SD,46
+State Only,South Dakota,All Other and Unallocable,835,0.978549263,48520.87186,40514928,SD,46
+State Only,Tennessee,Total,79258,12.10456248,47952.07737,3800585748,TN,47
+State Only,Tennessee,Financial Administration,3329,0.508416671,52397.70622,174431964,TN,47
+State Only,Tennessee,Other Government Administration,754,0.115153551,50657.20424,38195532,TN,47
+State Only,Tennessee,Judicial and Legal,2496,0.38119796,66762.86538,166640112,TN,47
+State Only,Tennessee,Police Protection Total,1761,0.268946157,54860.34072,96609060,TN,47
+State Only,Tennessee,Police Officers Only,1360,0.207704017,59040.67059,80295312,TN,47
+State Only,Tennessee,Other Police Employees,401,0.06124214,40682.66334,16313748,TN,47
+State Only,Tennessee,Fire Protection Total,0,0,0,0,TN,47
+State Only,Tennessee,Firefighters Only,0,0,0,0,TN,47
+State Only,Tennessee,Other Fire Employees,0,0,0,0,TN,47
+State Only,Tennessee,Corrections,7016,1.071508369,35958.91676,252287760,TN,47
+State Only,Tennessee,Highways,3465,0.529187072,42102.12294,145883856,TN,47
+State Only,Tennessee,Air Transportation,0,0,0,0,TN,47
+State Only,Tennessee,Water Transport and Terminals,0,0,0,0,TN,47
+State Only,Tennessee,Public Welfare,7635,1.166044242,40656.4275,310411824,TN,47
+State Only,Tennessee,Health,4223,0.644951517,51246.11224,216412332,TN,47
+State Only,Tennessee,Hospitals,3765,0.575004135,43577.57769,164069580,TN,47
+State Only,Tennessee,Social Insurance Administration,1069,0.163261466,44252.43031,47305848,TN,47
+State Only,Tennessee,Solid Waste Management,0,0,0,0,TN,47
+State Only,Tennessee,Sewerage,0,0,0,0,TN,47
+State Only,Tennessee,Parks and Recreation,1049,0.160206995,28435.08103,29828400,TN,47
+State Only,Tennessee,Housing and Community Development,0,0,0,0,TN,47
+State Only,Tennessee,Natural Resources,3752,0.573018729,46990.29211,176307576,TN,47
+State Only,Tennessee,Water Supply,0,0,0,0,TN,47
+State Only,Tennessee,Electric Power,0,0,0,0,TN,47
+State Only,Tennessee,Gas Supply,0,0,0,0,TN,47
+State Only,Tennessee,Transit,0,0,0,0,TN,47
+State Only,Tennessee,Education Total,36398,5.558831476,51259.94978,1865759652,TN,47
+State Only,Tennessee,Elementary & Secondary Education Total,0,0,0,0,TN,47
+State Only,Tennessee,Elem & Sec Instructional Employees,0,0,0,0,TN,47
+State Only,Tennessee,Elem & Sec Other Employees,0,0,0,0,TN,47
+State Only,Tennessee,Higher Education Total,34464,5.263464146,51606.52646,1778567328,TN,47
+State Only,Tennessee,Higher Ed Instructional Employees,12627,1.928440163,66709.12046,842336064,TN,47
+State Only,Tennessee,Higher Ed Other Employees,21837,3.335023983,42873.6211,936231264,TN,47
+State Only,Tennessee,Other Education,1934,0.29536733,45083.93175,87192324,TN,47
+State Only,Tennessee,Local Libraries,0,0,0,0,TN,47
+State Only,Tennessee,State Liquor Stores,0,0,0,0,TN,47
+State Only,Tennessee,All Other and Unallocable,2546,0.388834137,45735.36999,116442252,TN,47
+State Only,Texas,Total,313284,11.61210921,56057.72881,17561989512,TX,48
+State Only,Texas,Financial Administration,7694,0.285183949,55392.18872,426187500,TX,48
+State Only,Texas,Other Government Administration,2062,0.076429595,56382.44229,116260596,TX,48
+State Only,Texas,Judicial and Legal,5733,0.212497996,65092.78493,373176936,TX,48
+State Only,Texas,Police Protection Total,6797,0.251935963,61677.22289,419220084,TX,48
+State Only,Texas,Police Officers Only,3546,0.131435181,76427.36041,271011420,TX,48
+State Only,Texas,Other Police Employees,3251,0.120500782,45588.63857,148208664,TX,48
+State Only,Texas,Fire Protection Total,0,0,0,0,TX,48
+State Only,Texas,Firefighters Only,0,0,0,0,TX,48
+State Only,Texas,Other Fire Employees,0,0,0,0,TX,48
+State Only,Texas,Corrections,39899,1.478886714,37004.09674,1476426456,TX,48
+State Only,Texas,Highways,12815,0.4749977,51722.42716,662822904,TX,48
+State Only,Texas,Air Transportation,0,0,0,0,TX,48
+State Only,Texas,Water Transport and Terminals,0,0,0,0,TX,48
+State Only,Texas,Public Welfare,23657,0.876864658,39032.70136,923396616,TX,48
+State Only,Texas,Health,31236,1.157786044,48449.80369,1513378068,TX,48
+State Only,Texas,Hospitals,23206,0.860148001,59269.03939,1375397328,TX,48
+State Only,Texas,Social Insurance Administration,3884,0.143963407,43947.26571,170691180,TX,48
+State Only,Texas,Solid Waste Management,0,0,0,0,TX,48
+State Only,Texas,Sewerage,0,0,0,0,TX,48
+State Only,Texas,Parks and Recreation,1200,0.044478911,37778.96,45334752,TX,48
+State Only,Texas,Housing and Community Development,0,0,0,0,TX,48
+State Only,Texas,Natural Resources,10687,0.396121765,56100.60747,599547192,TX,48
+State Only,Texas,Water Supply,0,0,0,0,TX,48
+State Only,Texas,Electric Power,0,0,0,0,TX,48
+State Only,Texas,Gas Supply,0,0,0,0,TX,48
+State Only,Texas,Transit,0,0,0,0,TX,48
+State Only,Texas,Education Total,136840,5.072078445,65971.36162,9027521124,TX,48
+State Only,Texas,Elementary & Secondary Education Total,18,0.000667184,55685.33333,1002336,TX,48
+State Only,Texas,Elem & Sec Instructional Employees,16,0.000593052,57273.75,916380,TX,48
+State Only,Texas,Elem & Sec Other Employees,2,7.41E-05,42978,85956,TX,48
+State Only,Texas,Higher Education Total,132397,4.907395279,66291.10022,8776742796,TX,48
+State Only,Texas,Higher Ed Instructional Employees,37082,1.374472471,104718.5699,3883174008,TX,48
+State Only,Texas,Higher Ed Other Employees,95315,3.532922808,51341.0144,4893568788,TX,48
+State Only,Texas,Other Education,4425,0.164015983,56446.55186,249775992,TX,48
+State Only,Texas,Local Libraries,0,0,0,0,TX,48
+State Only,Texas,State Liquor Stores,0,0,0,0,TX,48
+State Only,Texas,All Other and Unallocable,7574,0.280736058,57120.25033,432628776,TX,48
+State Only,Utah,Total,54038,18.3521945,54310.05093,2934806532,UT,49
+State Only,Utah,Financial Administration,2425,0.823569926,52770.7101,127968972,UT,49
+State Only,Utah,Other Government Administration,489,0.166072451,57076.51534,27910416,UT,49
+State Only,Utah,Judicial and Legal,1544,0.524367821,58549.94301,90401112,UT,49
+State Only,Utah,Police Protection Total,868,0.294787091,49365.58065,42849324,UT,49
+State Only,Utah,Police Officers Only,446,0.151468943,53818.41256,24003012,UT,49
+State Only,Utah,Other Police Employees,422,0.143318148,44659.50711,18846312,UT,49
+State Only,Utah,Fire Protection Total,0,0,0,0,UT,49
+State Only,Utah,Firefighters Only,0,0,0,0,UT,49
+State Only,Utah,Other Fire Employees,0,0,0,0,UT,49
+State Only,Utah,Corrections,3138,1.065716465,42685.44168,133946916,UT,49
+State Only,Utah,Highways,1565,0.531499767,52103.05687,81541284,UT,49
+State Only,Utah,Air Transportation,0,0,0,0,UT,49
+State Only,Utah,Water Transport and Terminals,0,0,0,0,UT,49
+State Only,Utah,Public Welfare,2750,0.933945277,41665.03855,114578856,UT,49
+State Only,Utah,Health,1864,0.63304509,49338.92704,91967760,UT,49
+State Only,Utah,Hospitals,8863,3.010020723,49484.48516,438580992,UT,49
+State Only,Utah,Social Insurance Administration,973,0.33044682,45011.889,43796568,UT,49
+State Only,Utah,Solid Waste Management,0,0,0,0,UT,49
+State Only,Utah,Sewerage,0,0,0,0,UT,49
+State Only,Utah,Parks and Recreation,286,0.097130309,37201.38462,10639596,UT,49
+State Only,Utah,Housing and Community Development,0,0,0,0,UT,49
+State Only,Utah,Natural Resources,1267,0.43029406,46787.23283,59279424,UT,49
+State Only,Utah,Water Supply,0,0,0,0,UT,49
+State Only,Utah,Electric Power,0,0,0,0,UT,49
+State Only,Utah,Gas Supply,0,0,0,0,UT,49
+State Only,Utah,Transit,0,0,0,0,UT,49
+State Only,Utah,Education Total,26053,8.848027745,60806.06579,1584180432,UT,49
+State Only,Utah,Elementary & Secondary Education Total,0,0,0,0,UT,49
+State Only,Utah,Elem & Sec Instructional Employees,0,0,0,0,UT,49
+State Only,Utah,Elem & Sec Other Employees,0,0,0,0,UT,49
+State Only,Utah,Higher Education Total,24103,8.18577564,61862.93441,1491082308,UT,49
+State Only,Utah,Higher Ed Instructional Employees,7955,2.701648974,96317.63419,766206780,UT,49
+State Only,Utah,Higher Ed Other Employees,16148,5.484126666,44889.49269,724875528,UT,49
+State Only,Utah,Other Education,1950,0.662252105,47742.62769,93098124,UT,49
+State Only,Utah,Local Libraries,0,0,0,0,UT,49
+State Only,Utah,State Liquor Stores,410,0.13924275,26064.73171,10686540,UT,49
+State Only,Utah,All Other and Unallocable,1543,0.524028204,49564.70512,76478340,UT,49
+State Only,Vermont,Total,14483,23.10747056,60118.22274,870692220,VT,50
+State Only,Vermont,Financial Administration,644,1.027495066,57702.98758,37160724,VT,50
+State Only,Vermont,Other Government Administration,490,0.781789724,62584.0898,30666204,VT,50
+State Only,Vermont,Judicial and Legal,685,1.092910124,58825.68175,40295592,VT,50
+State Only,Vermont,Police Protection Total,652,1.04025898,65861.44785,42941664,VT,50
+State Only,Vermont,Police Officers Only,311,0.496197151,81657.41479,25395456,VT,50
+State Only,Vermont,Other Police Employees,341,0.544061828,51455.15543,17546208,VT,50
+State Only,Vermont,Fire Protection Total,0,0,0,0,VT,50
+State Only,Vermont,Firefighters Only,0,0,0,0,VT,50
+State Only,Vermont,Other Fire Employees,0,0,0,0,VT,50
+State Only,Vermont,Corrections,1087,1.734296796,52835.39282,57432072,VT,50
+State Only,Vermont,Highways,1070,1.707173479,57616.11589,61649244,VT,50
+State Only,Vermont,Air Transportation,0,0,0,0,VT,50
+State Only,Vermont,Water Transport and Terminals,0,0,0,0,VT,50
+State Only,Vermont,Public Welfare,1543,2.461839886,53508.11666,82563024,VT,50
+State Only,Vermont,Health,514,0.820081466,55291.89105,28420032,VT,50
+State Only,Vermont,Hospitals,194,0.309524911,56175.03093,10897956,VT,50
+State Only,Vermont,Social Insurance Administration,272,0.433973071,49880.16176,13567404,VT,50
+State Only,Vermont,Solid Waste Management,0,0,0,0,VT,50
+State Only,Vermont,Sewerage,0,0,0,0,VT,50
+State Only,Vermont,Parks and Recreation,122,0.194649686,52905.2459,6454440,VT,50
+State Only,Vermont,Housing and Community Development,0,0,0,0,VT,50
+State Only,Vermont,Natural Resources,610,0.973248432,59207.19344,36116388,VT,50
+State Only,Vermont,Water Supply,0,0,0,0,VT,50
+State Only,Vermont,Electric Power,0,0,0,0,VT,50
+State Only,Vermont,Gas Supply,0,0,0,0,VT,50
+State Only,Vermont,Transit,0,0,0,0,VT,50
+State Only,Vermont,Education Total,5351,8.537462885,65384.60475,349873020,VT,50
+State Only,Vermont,Elementary & Secondary Education Total,0,0,0,0,VT,50
+State Only,Vermont,Elem & Sec Instructional Employees,0,0,0,0,VT,50
+State Only,Vermont,Elem & Sec Other Employees,0,0,0,0,VT,50
+State Only,Vermont,Higher Education Total,4915,7.841829579,66121.45025,324986928,VT,50
+State Only,Vermont,Higher Ed Instructional Employees,1246,1.987979584,105160.7191,131030256,VT,50
+State Only,Vermont,Higher Ed Other Employees,3669,5.853849995,52863.63369,193956672,VT,50
+State Only,Vermont,Other Education,436,0.695633306,57078.19266,24886092,VT,50
+State Only,Vermont,Local Libraries,0,0,0,0,VT,50
+State Only,Vermont,State Liquor Stores,53,0.084560929,55875.62264,2961408,VT,50
+State Only,Vermont,All Other and Unallocable,1196,1.908205122,58271.77926,69693048,VT,50
+State Only,Virginia,Total,127408,15.29857117,55554.11726,7078038972,VA,51
+State Only,Virginia,Financial Administration,4332,0.52016679,52439.57341,227168232,VA,51
+State Only,Virginia,Other Government Administration,776,0.093178538,61761.30928,47926776,VA,51
+State Only,Virginia,Judicial and Legal,3806,0.45700711,58157.18339,221346240,VA,51
+State Only,Virginia,Police Protection Total,3203,0.384601622,57131.39682,182991864,VA,51
+State Only,Virginia,Police Officers Only,2369,0.284458708,61880.8493,146595732,VA,51
+State Only,Virginia,Other Police Employees,834,0.100142914,43640.44604,36396132,VA,51
+State Only,Virginia,Fire Protection Total,0,0,0,0,VA,51
+State Only,Virginia,Firefighters Only,0,0,0,0,VA,51
+State Only,Virginia,Other Fire Employees,0,0,0,0,VA,51
+State Only,Virginia,Corrections,14151,1.699187498,39974.29383,565676232,VA,51
+State Only,Virginia,Highways,7391,0.887477549,58443.00041,431952216,VA,51
+State Only,Virginia,Air Transportation,0,0,0,0,VA,51
+State Only,Virginia,Water Transport and Terminals,84,0.010086337,76661.42857,6439560,VA,51
+State Only,Virginia,Public Welfare,2898,0.347978614,51429.49068,149042664,VA,51
+State Only,Virginia,Health,5359,0.643484263,49255.9582,263962680,VA,51
+State Only,Virginia,Hospitals,15239,1.829829572,51424.02231,783650676,VA,51
+State Only,Virginia,Social Insurance Administration,1373,0.164863574,45570.19665,62567880,VA,51
+State Only,Virginia,Solid Waste Management,0,0,0,0,VA,51
+State Only,Virginia,Sewerage,0,0,0,0,VA,51
+State Only,Virginia,Parks and Recreation,1040,0.124878454,37963.06154,39481584,VA,51
+State Only,Virginia,Housing and Community Development,0,0,0,0,VA,51
+State Only,Virginia,Natural Resources,2659,0.319280585,57019.1666,151613964,VA,51
+State Only,Virginia,Water Supply,0,0,0,0,VA,51
+State Only,Virginia,Electric Power,0,0,0,0,VA,51
+State Only,Virginia,Gas Supply,0,0,0,0,VA,51
+State Only,Virginia,Transit,0,0,0,0,VA,51
+State Only,Virginia,Education Total,59336,7.124796082,61486.43205,3648358932,VA,51
+State Only,Virginia,Elementary & Secondary Education Total,2,0.000240151,98496,196992,VA,51
+State Only,Virginia,Elem & Sec Instructional Employees,0,0,0,0,VA,51
+State Only,Virginia,Elem & Sec Other Employees,2,0.000240151,98496,196992,VA,51
+State Only,Virginia,Higher Education Total,56649,6.802153385,61638.256,3491745564,VA,51
+State Only,Virginia,Higher Ed Instructional Employees,19519,2.343752439,88051.61105,1718679396,VA,51
+State Only,Virginia,Higher Ed Other Employees,37130,4.458400946,47752.92669,1773066168,VA,51
+State Only,Virginia,Other Education,2685,0.322402546,58255.63352,156416376,VA,51
+State Only,Virginia,Local Libraries,0,0,0,0,VA,51
+State Only,Virginia,State Liquor Stores,1953,0.234507327,32995.9447,64441080,VA,51
+State Only,Virginia,All Other and Unallocable,3808,0.457247261,60771.63655,231418392,VA,51
+State Only,Washington,Total,120091,17.00243205,60351.80232,7247708292,WA,53
+State Only,Washington,Financial Administration,2771,0.392316986,63255.58138,175281216,WA,53
+State Only,Washington,Other Government Administration,1358,0.192265055,59748.81296,81138888,WA,53
+State Only,Washington,Judicial and Legal,1905,0.269709079,72104.41575,137358912,WA,53
+State Only,Washington,Police Protection Total,2222,0.314589803,59794.69307,132863808,WA,53
+State Only,Washington,Police Officers Only,815,0.115387349,80042.82699,65234904,WA,53
+State Only,Washington,Other Police Employees,1407,0.199202454,48066.02985,67628904,WA,53
+State Only,Washington,Fire Protection Total,0,0,0,0,WA,53
+State Only,Washington,Firefighters Only,0,0,0,0,WA,53
+State Only,Washington,Other Fire Employees,0,0,0,0,WA,53
+State Only,Washington,Corrections,8553,1.210930056,50251.17924,429798336,WA,53
+State Only,Washington,Highways,6616,0.93669043,62935.36759,416380392,WA,53
+State Only,Washington,Air Transportation,0,0,0,0,WA,53
+State Only,Washington,Water Transport and Terminals,2,0.000283159,79872,159744,WA,53
+State Only,Washington,Public Welfare,10521,1.489558648,52308.0308,550332792,WA,53
+State Only,Washington,Health,6298,0.891668127,51664.05843,325380240,WA,53
+State Only,Washington,Hospitals,10289,1.456712188,72993.24405,751027488,WA,53
+State Only,Washington,Social Insurance Administration,3646,0.51619911,55011.78497,200572968,WA,53
+State Only,Washington,Solid Waste Management,557,0.07885982,64492.43806,35922288,WA,53
+State Only,Washington,Sewerage,0,0,0,0,WA,53
+State Only,Washington,Parks and Recreation,524,0.074187694,56539.14504,29626512,WA,53
+State Only,Washington,Housing and Community Development,54,0.007645297,74997.33333,4049856,WA,53
+State Only,Washington,Natural Resources,4790,0.678166137,54376.98288,260465748,WA,53
+State Only,Washington,Water Supply,0,0,0,0,WA,53
+State Only,Washington,Electric Power,0,0,0,0,WA,53
+State Only,Washington,Gas Supply,0,0,0,0,WA,53
+State Only,Washington,Transit,0,0,0,0,WA,53
+State Only,Washington,Education Total,56052,7.935818017,61998.71141,3475151772,WA,53
+State Only,Washington,Elementary & Secondary Education Total,0,0,0,0,WA,53
+State Only,Washington,Elem & Sec Instructional Employees,0,0,0,0,WA,53
+State Only,Washington,Elem & Sec Other Employees,0,0,0,0,WA,53
+State Only,Washington,Higher Education Total,53879,7.628165613,62197.18042,3351121884,WA,53
+State Only,Washington,Higher Ed Instructional Employees,15817,2.239364047,91313.70829,1444308924,WA,53
+State Only,Washington,Higher Ed Other Employees,38062,5.388801566,50097.55031,1906812960,WA,53
+State Only,Washington,Other Education,2173,0.307652404,57077.72112,124029888,WA,53
+State Only,Washington,Local Libraries,0,0,0,0,WA,53
+State Only,Washington,State Liquor Stores,95,0.013450059,63353.68421,6018600,WA,53
+State Only,Washington,All Other and Unallocable,3838,0.543382387,61536.92861,236178732,WA,53
+State Only,West Virginia,Total,40281,21.78822351,43499.21114,1752191724,WV,54
+State Only,West Virginia,Financial Administration,1929,1.043407144,36672.2986,70740864,WV,54
+State Only,West Virginia,Other Government Administration,355,0.192021532,50031.92113,17761332,WV,54
+State Only,West Virginia,Judicial and Legal,1615,0.873562746,55657.85015,89887428,WV,54
+State Only,West Virginia,Police Protection Total,1031,0.557673802,48580.25994,50086248,WV,54
+State Only,West Virginia,Police Officers Only,646,0.349425098,59230.95975,38263200,WV,54
+State Only,West Virginia,Other Police Employees,385,0.208248704,30709.21558,11823048,WV,54
+State Only,West Virginia,Fire Protection Total,0,0,0,0,WV,54
+State Only,West Virginia,Firefighters Only,0,0,0,0,WV,54
+State Only,West Virginia,Other Fire Employees,0,0,0,0,WV,54
+State Only,West Virginia,Corrections,3383,1.829884068,29678.79161,100403352,WV,54
+State Only,West Virginia,Highways,5162,2.792155352,35745.05928,184515996,WV,54
+State Only,West Virginia,Air Transportation,3,0.001622717,48472,145416,WV,54
+State Only,West Virginia,Water Transport and Terminals,2,0.001081811,41832,83664,WV,54
+State Only,West Virginia,Public Welfare,3502,1.894251849,31315.88464,109668228,WV,54
+State Only,West Virginia,Health,813,0.439756354,40373.90406,32823984,WV,54
+State Only,West Virginia,Hospitals,1678,0.907639807,31362.91538,52626972,WV,54
+State Only,West Virginia,Social Insurance Administration,576,0.311561698,35943.29167,20703336,WV,54
+State Only,West Virginia,Solid Waste Management,11,0.005949963,46381.09091,510192,WV,54
+State Only,West Virginia,Sewerage,0,0,0,0,WV,54
+State Only,West Virginia,Parks and Recreation,596,0.322379812,22300.67114,13291200,WV,54
+State Only,West Virginia,Housing and Community Development,0,0,0,0,WV,54
+State Only,West Virginia,Natural Resources,1892,1.023393632,42096.17759,79645968,WV,54
+State Only,West Virginia,Water Supply,0,0,0,0,WV,54
+State Only,West Virginia,Electric Power,0,0,0,0,WV,54
+State Only,West Virginia,Gas Supply,0,0,0,0,WV,54
+State Only,West Virginia,Transit,9,0.004868152,44173.33333,397560,WV,54
+State Only,West Virginia,Education Total,15364,8.310475559,54192.0289,832606332,WV,54
+State Only,West Virginia,Elementary & Secondary Education Total,0,0,0,0,WV,54
+State Only,West Virginia,Elem & Sec Instructional Employees,0,0,0,0,WV,54
+State Only,West Virginia,Elem & Sec Other Employees,0,0,0,0,WV,54
+State Only,West Virginia,Higher Education Total,14118,7.636507026,54610.22779,770987196,WV,54
+State Only,West Virginia,Higher Ed Instructional Employees,5219,2.822986979,76101.63403,397174428,WV,54
+State Only,West Virginia,Higher Ed Other Employees,8899,4.813520047,42006.1544,373812768,WV,54
+State Only,West Virginia,Other Education,1246,0.673968533,49453.56019,61619136,WV,54
+State Only,West Virginia,Local Libraries,0,0,0,0,WV,54
+State Only,West Virginia,State Liquor Stores,51,0.027586192,32208.47059,1642632,WV,54
+State Only,West Virginia,All Other and Unallocable,2309,1.248951319,40992.21308,94651020,WV,54
+State Only,Wisconsin,Total,72960,12.66791586,56973.64737,4156797312,WI,55
+State Only,Wisconsin,Financial Administration,2439,0.42347926,56271.28659,137245668,WI,55
+State Only,Wisconsin,Other Government Administration,692,0.120150737,52783.82081,36526404,WI,55
+State Only,Wisconsin,Judicial and Legal,2142,0.371911675,78106.07843,167303220,WI,55
+State Only,Wisconsin,Police Protection Total,884,0.153487358,59623.49321,52707168,WI,55
+State Only,Wisconsin,Police Officers Only,526,0.09132845,64619.45247,33989832,WI,55
+State Only,Wisconsin,Other Police Employees,358,0.062158907,52283.06145,18717336,WI,55
+State Only,Wisconsin,Fire Protection Total,0,0,0,0,WI,55
+State Only,Wisconsin,Firefighters Only,0,0,0,0,WI,55
+State Only,Wisconsin,Other Fire Employees,0,0,0,0,WI,55
+State Only,Wisconsin,Corrections,9518,1.65259352,51912.2635,494100924,WI,55
+State Only,Wisconsin,Highways,1466,0.254538989,65326.38745,95768484,WI,55
+State Only,Wisconsin,Air Transportation,0,0,0,0,WI,55
+State Only,Wisconsin,Water Transport and Terminals,0,0,0,0,WI,55
+State Only,Wisconsin,Public Welfare,2182,0.378856804,50423.21357,110023452,WI,55
+State Only,Wisconsin,Health,1643,0.285271186,59467.13573,97704504,WI,55
+State Only,Wisconsin,Hospitals,3645,0.632874908,49257.63292,179544072,WI,55
+State Only,Wisconsin,Social Insurance Administration,951,0.165120449,49545.56467,47117832,WI,55
+State Only,Wisconsin,Solid Waste Management,0,0,0,0,WI,55
+State Only,Wisconsin,Sewerage,0,0,0,0,WI,55
+State Only,Wisconsin,Parks and Recreation,130,0.02257167,49935.50769,6491616,WI,55
+State Only,Wisconsin,Housing and Community Development,0,0,0,0,WI,55
+State Only,Wisconsin,Natural Resources,2321,0.402991128,50459.1159,117115608,WI,55
+State Only,Wisconsin,Water Supply,0,0,0,0,WI,55
+State Only,Wisconsin,Electric Power,0,0,0,0,WI,55
+State Only,Wisconsin,Gas Supply,0,0,0,0,WI,55
+State Only,Wisconsin,Transit,0,0,0,0,WI,55
+State Only,Wisconsin,Education Total,39639,6.882449519,57919.0694,2295853992,WI,55
+State Only,Wisconsin,Elementary & Secondary Education Total,0,0,0,0,WI,55
+State Only,Wisconsin,Elem & Sec Instructional Employees,0,0,0,0,WI,55
+State Only,Wisconsin,Elem & Sec Other Employees,0,0,0,0,WI,55
+State Only,Wisconsin,Higher Education Total,38541,6.69180572,57971.53577,2234280960,WI,55
+State Only,Wisconsin,Higher Ed Instructional Employees,12843,2.229907394,71327.77295,916062588,WI,55
+State Only,Wisconsin,Higher Ed Other Employees,25698,4.461898326,51296.53561,1318218372,WI,55
+State Only,Wisconsin,Other Education,1098,0.1906438,56077.44262,61573032,WI,55
+State Only,Wisconsin,Local Libraries,0,0,0,0,WI,55
+State Only,Wisconsin,State Liquor Stores,0,0,0,0,WI,55
+State Only,Wisconsin,All Other and Unallocable,5308,0.92161866,60153.42276,319294368,WI,55
+State Only,Wyoming,Total,13484,23.0770284,50202.34619,676928436,WY,56
+State Only,Wyoming,Financial Administration,752,1.287001287,59622.71809,44836284,WY,56
+State Only,Wyoming,Other Government Administration,181,0.309770257,60966.49724,11034936,WY,56
+State Only,Wyoming,Judicial and Legal,548,0.937867959,65296.29197,35782368,WY,56
+State Only,Wyoming,Police Protection Total,276,0.472356855,55381.08696,15285180,WY,56
+State Only,Wyoming,Police Officers Only,182,0.311481694,49887.95604,9079608,WY,56
+State Only,Wyoming,Other Police Employees,94,0.160875161,66016.7234,6205572,WY,56
+State Only,Wyoming,Fire Protection Total,0,0,0,0,WY,56
+State Only,Wyoming,Firefighters Only,0,0,0,0,WY,56
+State Only,Wyoming,Other Fire Employees,0,0,0,0,WY,56
+State Only,Wyoming,Corrections,1328,2.272789507,42599.37651,56571972,WY,56
+State Only,Wyoming,Highways,1795,3.072030998,45865.61114,82328772,WY,56
+State Only,Wyoming,Air Transportation,0,0,0,0,WY,56
+State Only,Wyoming,Water Transport and Terminals,0,0,0,0,WY,56
+State Only,Wyoming,Public Welfare,567,0.970385279,46690.6455,26473596,WY,56
+State Only,Wyoming,Health,919,1.572811413,54699.21219,50268576,WY,56
+State Only,Wyoming,Hospitals,733,1.254483967,40458.04093,29655744,WY,56
+State Only,Wyoming,Social Insurance Administration,124,0.212218297,45969.09677,5700168,WY,56
+State Only,Wyoming,Solid Waste Management,0,0,0,0,WY,56
+State Only,Wyoming,Sewerage,0,0,0,0,WY,56
+State Only,Wyoming,Parks and Recreation,221,0.378227772,50144.30769,11081892,WY,56
+State Only,Wyoming,Housing and Community Development,0,0,0,0,WY,56
+State Only,Wyoming,Natural Resources,953,1.631000301,53263.94544,50760540,WY,56
+State Only,Wyoming,Water Supply,0,0,0,0,WY,56
+State Only,Wyoming,Electric Power,0,0,0,0,WY,56
+State Only,Wyoming,Gas Supply,0,0,0,0,WY,56
+State Only,Wyoming,Transit,0,0,0,0,WY,56
+State Only,Wyoming,Education Total,4144,7.092198582,50518.01641,209346660,WY,56
+State Only,Wyoming,Elementary & Secondary Education Total,0,0,0,0,WY,56
+State Only,Wyoming,Elem & Sec Instructional Employees,0,0,0,0,WY,56
+State Only,Wyoming,Elem & Sec Other Employees,0,0,0,0,WY,56
+State Only,Wyoming,Higher Education Total,3929,6.724239437,49842.63986,195831732,WY,56
+State Only,Wyoming,Higher Ed Instructional Employees,1322,2.26252088,69914.5416,92427024,WY,56
+State Only,Wyoming,Higher Ed Other Employees,2607,4.461718557,39664.25316,103404708,WY,56
+State Only,Wyoming,Other Education,215,0.367959145,62860.13023,13514928,WY,56
+State Only,Wyoming,Local Libraries,0,0,0,0,WY,56
+State Only,Wyoming,State Liquor Stores,37,0.063323202,45873.40541,1697316,WY,56
+State Only,Wyoming,All Other and Unallocable,906,1.550562721,50887.89404,46104432,WY,56
