@@ -15,42 +15,38 @@
 .country{
   fill:#fff;
   /*stroke:#fff;*/
+  position: fixed;
+  z-index: -1;
 }
-.q0-9 { fill:rgb(247,251,255); }
-.q1-9 { fill:rgb(222,235,247); }
-.q2-9 { fill:rgb(198,219,239); }
-.q3-9 { fill:rgb(158,202,225); }
-.q4-9 { fill:rgb(107,174,214); }
-.q5-9 { fill:rgb(66,146,198); }
-.q6-9 { fill:rgb(33,113,181); }
-.q7-9 { fill:rgb(8,81,156); }
-.q8-9 { fill:rgb(8,48,107); }
+
 .counties{
-  stroke:#444;
-  fill:none;
+  stroke:#fff;
+  z-index: -1;
+  position:fixed;
 }
 .selectState{
   stroke:#fff;
   stroke-linejoin:"round";
-  /*fill:#444;*/
-  /*opacity: 0.5;*/
-  z-index: 0;
+  position:relative;
+  z-index: -1;
 }
 .selectState:hover{
-  box-shadow: 15px -15px grey;
-  fill:red;
-  z-index: 100;
+  position: relative;
+  z-index: 1000;
 }
 .active{
-  box-shadow: inset 0 0 1em black;
-  fill: red;
-  z-index: 100;
+  box-shadow: inset 0 0 4em black;
+  stroke: white;
+  stroke-width: 1px;
+  stroke-linejoin:"round";
+  position:absolute;
 }
 </style>
 
 <body>
   <div class="outerBox grit">
-    <header class="title grit"><h1>Statewide Public Employment</h1></header>
+    <header class="title grit"><h1>State Government Employment, 2013 Census</h1> 
+                               <h2>US Census: March 2014</h2></header>
 
     <article class="main ">
 
@@ -67,6 +63,9 @@
         var width = 950,
             height= 500,
             centered,
+            kk, xx, yy,
+            stateFilter = {},
+            countyID,
             stateFIPS;
 
         var w  = 950,
@@ -82,11 +81,6 @@
         var xscale = d3.scale.linear().range([0, plotWidth - b.lside - b.rside]),
             yscale = d3.scale.ordinal().rangeBands([0, plotHeight], 0.2, 0.1),
             color  = d3.scale.quantize().range(["#dcdcdc", "#d0d6cd", "#bdc9be", "#aabdaf", "#97b0a0", "#84a491", "#719782", "#5e8b73", "#4b7e64", "#387255", "#256546", "#125937", "#004d28"]);
-
-        var rateById = d3.map();
-
-        var quantize = d3.scale.quantize()
-          .range(d3.range(9).map(function(i) { return "q" + i + "-9"; }));
 
         var projection = d3.geo.albersUsa()
             .scale (1070)
@@ -113,7 +107,12 @@
         }
 
         function ready (error, us, data) {
+          d3.selectAll("path").remove();
+          xx = width/2;
+          yy = height/2;
+          kk = 1;
           var y = column;
+          var xCen, yCen;
           var pairNameWithId = {};
           var pairDataWithId = {};
           d2.forEach(function(d){
@@ -121,9 +120,10 @@
             pairDataWithId[d.StateCode] = +d[y];
           });
           color.domain([0, d3.max(d2, function(d){return d[y];})]);
-          console.log(y);
           var counties = topojson.feature(us, us.objects.counties);
           var country = topojson.feature(us, us.objects.states);
+              countyID = counties.features;
+
           gMap.append("path")
              .datum(country)
              .attr("d", path)
@@ -135,31 +135,55 @@
              .attr("d", path)
              .style("fill", function(d){return color(pairDataWithId[d.id]);})
              .on("click", clicke);
-          }
+
+          gMap.transition()
+             .delay(200)
+             .duration(200)
+             .ease("sin")
+             .attr("transform", "translate(" + width/2 + "," + height/2 + ")scale(" + kk + ") translate(" + -xx + "," + -yy +")")
+             .style ("stroke-width", 1.5 / kk + "px");
+        }
         function clicke(d){
-          var x, y, k;
+          gMap.selectAll(".counties").remove();
+          var xBound, yBound;
           if (d && centered !== d) {
             var centroid = path.centroid(d);
-            x = centroid[0];
-            y = centroid[1];
-            k = 2.5;
+            var bounds = path.bounds(d);
+            xx = centroid[0];
+            yy = centroid[1];
+            xBound = (bounds[1][0] - bounds[0][0])/width;
+            yBound = (bounds[1][1] - bounds[0][1])/height;
+            kk = 0.8 / Math.max(xBound, yBound);
             centered = d
             stateFIPS= d.id;
-          console.log(stateFIPS);}
+          }
           else {
-            x = width/2;
-            y = height/2;
-            k = 1;
-            centered = null;}
+            xx = width/2;
+            yy = height/2;
+            kk = 1;
+            centered = null;
+            stateFIPS= null;}
+
           gMap.selectAll("path")
-           .classed("active", centered && function(d){return d === centered;});
+            .classed("active", centered && function(d){return d === centered;})
+            .sort(function(a, b){
+            if (a.id != d.id) return -1;
+            else return 1;
+          })
+          stateFilter = countyID.filter(function(d){if((d.id - d.id%1000)/1000 == stateFIPS) {return d.id;}else return null; }).filter(Boolean);
+          gMap.selectAll(".counties")
+            .data(stateFilter)
+            .enter().append("path")
+            .attr("class", "counties")
+            .attr("d", path)
+
           gMap.transition()
-           .delay(200)
-           .duration(200)
-           .ease("sin")
-           .attr("transform", "translate(" + width/2 + "," + height/2 + ")scale(" + k + ") translate(" + -x + "," + -y +")")
-           .style ("stroke-width", 1.5 / k + "px");
-        }
+            .delay(200)
+            .duration(200)
+            .ease("sin")
+            .attr("transform", "translate(" + width/2 + "," + height/2 + ")scale(" + kk + ") translate(" + -xx + "," + -yy +")")
+            .style ("stroke-width", 1.5 / kk + "px");
+          }
 
         function drawAxes(data, selector){
           var xColumn = selector;
